@@ -4,4 +4,5 @@ title: Training
 permalink: /training/
 ---
 
-Something
+Something something
+
