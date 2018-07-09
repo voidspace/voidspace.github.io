@@ -25,13 +25,20 @@ For training packages available, including custom training and coaching:
 
 * [Training](/training)
 
+
+### Contact me
+
+[michael@python.org](mailto:michael@python.org)
+
+
 ### CV
 
 * Python core developer and past maintainer of "unittest"
 * Teaching Introduction to Python and Python Mastery training courses since 2011
-* Author of IronPython in Action for Manning Publications
+* Author of [IronPython in Action](https://www.manning.com/books/ironpython-in-action) for Manning Publications
 * Creator of "mock", now in the Python standard library as "unittest.mock"
 * Four years experience of rigorous application of XP (Extreme Programming) agile programming including TDD
+* Four years of web application development with Django
 * Passionate about testing for ensuring quality of systems
 * Passionate about good engineering practises and sound system design thinking
 
@@ -66,6 +73,3 @@ years spent wrestling MongoDB for Juju.
 
   A small team developing a desktop application for the financial services industry. We develop for .NET using IronPython, Windows Forms and C#.
 
-### Contact me
-
-[michael@python.org](mailto:michael@python.org)
