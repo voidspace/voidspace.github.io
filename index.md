@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Agile Abstractions: Michael Foord
+permalink: /
 ---
 
 Some information about you!
