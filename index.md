@@ -4,7 +4,7 @@ title: Agile Abstractions: Michael Foord
 permalink: /
 ---
 
-Michael Foord is a Python trainer, coach and contractor. Specialising in teaching Python and the end-to-end automated testing of systems. 
+I'm Michael Foord and I'm a Python trainer, coach and contractor. I specialise in teaching Python and the end-to-end automated testing of systems.
 
 ### Software Engineering
 
