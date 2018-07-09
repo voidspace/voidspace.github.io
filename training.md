@@ -8,6 +8,16 @@ I've been teaching Python since 2011 and it's the thing I enjoy most in the worl
  
 For custom training packages, mentoring or team coaching please contact me: [michael@python.org](mailto:michael@python.org)
 
+### Effective Testing with unittest and mock
+
+Learn practical testing techniques, both unit testing and end-to-end testing, using standard Python testing tools. A two or three day course.
+
+This course covers the mechanics of writing tests and a test framework, practical tips for writing test support code, common testing patterns and anti-patterns and an in-depth example driven exploration of both unittest and mock.
+
+### TDD with Django
+
+An introduction to web application development and the testing of web applications with Selenium. Based on the course [TDD with Python by Harry Percival](https://www.obeythetestinggoat.com/). A two day course.
+
 ### Practical Python
 
 An introduction to practical programming with Python for programmers. A three day course.
@@ -47,12 +57,3 @@ This course is based on the course [Advanced Python Mastery by David Beazley](ht
 * **Iterators, Generators, and Coroutines.** Covers the iteration protocol, generator functions, and coroutines. A major focus of this section is on applying generators and coroutines to problems in data processing. You will learn how to apply these features to large data files and data streams.
 * **Modules and Packages.** This section covers details related to using modules and packages to organize larger programs. A major focus is understanding the underlying behavior of the import statement and some of the more tricky issues related to organizing packages.
 
-### Effective Testing with unittest and mock
-
-Learn practical testing techniques, both unit testing and end-to-end testing, using standard Python testing tools. A two or three day course.
-
-This course covers the mechanics of writing tests and a test framework, practical tips for writing test support code, common testing patterns and anti-patterns and an in-depth example driven exploration of both unittest and mock.
-
-### TDD with Django
-
-An introduction to web application development and the testing of web applications with Selenium. Based on the course [TDD with Python by Harry Percival](https://www.obeythetestinggoat.com/). A two day course.
