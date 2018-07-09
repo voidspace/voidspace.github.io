@@ -61,11 +61,11 @@ Organiser and compere of the Python Language Summit 2010-2014 and the Dynamic La
 
 * 2014 - 2017 Go Developer for Canonical
 
-  Working on the Juju devops tool, written in the Go programming language and using MongoDB. Working with cloud providers including Amazon, Azure and Google.
+  Working on the Juju devops tool, written in the Go programming language and using MongoDB. Working with cloud providers including MAAS, Amazon, Azure and Google. Two years spent on the networking team.
 
 * 2010 - 2014 Django Developer for Canonical
 
-  Web application and web service development, as part of the online services team. Primarily working on two Django progjects, the Ubuntu Payment Service and the Ubuntu Single Sign On Service.
+  Web application and web service development, as part of the online services team. Primarily working on two Django projects, the Ubuntu Payment Service and the Ubuntu Single Sign On Service.
 
 * 2009 - 2010 Silverlight and Django Web Application Developer for COMsulting
 
