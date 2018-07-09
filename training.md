@@ -55,4 +55,4 @@ This course covers the mechanics of writing tests and a test framework, practica
 
 ### TDD with Django
 
-An introduction to web application development and the testing of web applications with Selenium. Based on the course [TDD with Python by Harry Percival](https://www.obeythetestinggoat.com/). A two or three day course.
+An introduction to web application development and the testing of web applications with Selenium. Based on the course [TDD with Python by Harry Percival](https://www.obeythetestinggoat.com/). A two day course.
