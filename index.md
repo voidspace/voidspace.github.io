@@ -49,6 +49,8 @@ Professional software Engineer with Python since 2007, programming with Python s
 Familiarity with industry standard tools such as git, mercurial, postgresql and jenkins. Three
 years spent wrestling MongoDB for Juju.
 
+Organiser and compere of the Python Language Summit 2010-2014 and the Dynamic Languages VM Summit at PyCon 2011.
+
 #### Past Work
 
 * 2017 - 2018 Principle Test Automation Engineer for Red Hat Ansible
