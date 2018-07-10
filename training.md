@@ -11,9 +11,16 @@ For custom training packages, mentoring or team coaching please contact me: [mic
 ### Training Courses
 
 * [Practical Python](/practical-python/) 
+
   A fast paced introduction to Python for programmers.
+
 * [Advanced Python Mastery](/python-mastery/)
+
   Become a Python expert, learning Python from the inside out.
+
+* [Effective Testing with unittest and mock](/effective-testing/)
+
+  Practical testing techniques and principles with the standard library Python testing tools. Become a wizard with mock.
 
 
 ### Testimonials
@@ -29,18 +36,10 @@ For custom training packages, mentoring or team coaching please contact me: [mic
 *One of best trainings that i ever attended.*
 
 
-### Effective Testing with unittest and mock
 
-Learn practical testing techniques for both unit testing and end-to-end testing using standard Python testing tools. A two or three day course.
-
-This course covers the mechanics of writing tests and a test framework, practical tips for writing test support code, common testing patterns and anti-patterns and an in-depth example driven exploration of both unittest and mock.
 
 ### TDD with Django
 
 An introduction to web application development and the testing of web applications with Selenium. Based on the course [TDD with Python by Harry Percival](https://www.obeythetestinggoat.com/). A two day course.
-
-
-
-### Advanced Python Mastery
 
 
