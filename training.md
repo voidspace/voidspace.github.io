@@ -8,9 +8,22 @@ I've been teaching Python since 2011 and it's the thing I enjoy most in the worl
  
 For custom training packages, mentoring or team coaching please contact me: [michael@python.org](mailto:michael@python.org)
 
+### Testimonials
+
+*Truly a professional. Knowledgeable, prepared to answer any question from theory and/or experience. Funny, intuitive and very helpful in any technical way.*
+
+*The course was very well planned out. Michael was a great teacher!*
+
+*The course was great, lots of exercises to apply what you were learning. Very good course.*
+
+*Deep technical background and hands-on experience could give good answers on all questions raised.*
+
+*One of best trainings that i ever attended.*
+
+
 ### Effective Testing with unittest and mock
 
-Learn practical testing techniques, both unit testing and end-to-end testing, using standard Python testing tools. A two or three day course.
+Learn practical testing techniques for both unit testing and end-to-end testing using standard Python testing tools. A two or three day course.
 
 This course covers the mechanics of writing tests and a test framework, practical tips for writing test support code, common testing patterns and anti-patterns and an in-depth example driven exploration of both unittest and mock.
 
@@ -20,7 +33,7 @@ An introduction to web application development and the testing of web applicatio
 
 ### Practical Python
 
-An introduction to practical programming with Python for programmers. A three day course.
+An introduction to practical programming with Python for programmers. A three day course. This is a course for people with programming experience but little or no knowledge of Python. This course takes developers through the basics of Python and up to an intermediate level, able to understand and program with Python for real world applications and scripting.
 
 This course is based on the course [Practical Python by David Beazley](https://dabeaz.com/practicalpython.html)
 
