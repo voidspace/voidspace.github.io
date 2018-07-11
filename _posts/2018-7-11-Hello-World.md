@@ -20,8 +20,6 @@ I'm not saying any of this to boast, many of my contemporaries and those who are
 
 Alongside that, since 2011, I've done Python training on behalf of [David Beazley](https://www.dabeaz.com/). Teaching Python, both the introduction course and the super-advanced Python Mastery course, has been the most fun thing I've done professionally with Python. This is one of the reasons I've decided it's time to branch out as a freelance Python programmer, trainer, contractor and consultant. 
 
-This blog entry is both a "Hello World" 
+This blog entry is both a "Hello World" for the blog and for my new venture [Agile Abstractions](https://agileabstractions.com). I'm available for contract work, specialising in 
 
-
-
-This website is build with [Jekyll](https://jekyllrb.com/) using the open source [Jekyll Now](https://github.com/barryclark/jekyll-now) and hosted on [Github Pages](https://pages.github.com/). It's a lovely and simple workflow for geeks to build and host websites that include a blog. It reminds me of the heady days of 2006 and my static site generator [rest2web](http://www.voidspace.org.uk/python/rest2web/). 
+This website is built with [Jekyll](https://jekyllrb.com/) using the open source [Jekyll Now](https://github.com/barryclark/jekyll-now) and hosted on [Github Pages](https://pages.github.com/). It's a lovely and simple workflow for geeks to build and host websites that include a blog. It reminds me of the heady days of 2006 and my static site generator [rest2web](http://www.voidspace.org.uk/python/rest2web/). 

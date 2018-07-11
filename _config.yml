@@ -11,6 +11,10 @@ description: Python Training, Contracting and Consulting. Automated testing spec
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/127179?v=4
 
+plugins:
+  - jekyll-feed
+author: Michael Foord
+
 #
 # Flags below are optional
 #
