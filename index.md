@@ -17,7 +17,7 @@ produce through good practises and processes, whilst understanding that there ar
 always trade-offs involved. Quality means systems that work, that are stable and that
 can be easily maintained and extended.
 
-[Best Practises for Software Development and Testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
+* [Best Practises for Software Development and Testing (Article)](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
 
 I'm available for training and consulting work in the UK and Europe.
 
