@@ -19,6 +19,8 @@ can be easily maintained and extended.
 
 [Best Practises for Software Development and Testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
 
+I'm available for training and consulting work in the UK and Europe.
+
 ### Training
 
 For training packages available, including custom training and coaching:
@@ -49,9 +51,13 @@ Professional software Engineer with Python since 2007, programming with Python s
 Familiarity with industry standard tools such as git, mercurial, postgresql and jenkins. Three
 years spent wrestling MongoDB for Juju.
 
-Organiser and compere of the Python Language Summit 2010-2014 and the Dynamic Languages VM Summit at PyCon 2011.
+Organiser and compere of the Python Language Summit 2010-2014 and the Dynamic Languages VM Summit at PyCon 2011. Keynote speaker at PyCon New Zealand 2013, PyCon India 2014.
 
 #### Past Work
+
+* 2011 - present
+
+  Python teaching and training, from 2011-2018 on behalf of David Beazley. Primarily for HP and HP enterprise in the UK and Ireland.
 
 * 2017 - 2018 Principle Test Automation Engineer for Red Hat Ansible
 
