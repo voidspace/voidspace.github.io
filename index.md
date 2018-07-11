@@ -81,3 +81,15 @@ Organiser and compere of the Python Language Summit 2010-2014 and the Dynamic La
 
   A small team developing a desktop application for the financial services industry. We develop for .NET using IronPython, Windows Forms and C#.
 
+### Talks
+
+* [The Role of Abstractions: Lightning Talk PyCon US 2018](https://youtu.be/c-I0md_3fbQ?t=275)
+* [PyCon UK Panel 2015](https://eventil.com/presentations/L1see4-michael-foord-the-pycon-uk-panel)
+* [To the Clouds: EuroPython 2015](https://pyvideo.org/europython-2015/to-the-clouds-why-you-should-deploy-to-the-cloud-even-if-you-dont-want-to.html)
+* [Automated Deployments with Juju: PyCon UK 2014](https://pyvideo.org/pycon-uk-2014/repeatable-automated-deployments-with-juju.html)
+* [Testing with Mock: PyCon US 2011](https://pyvideo.org/pycon-us-2011/pycon-2011--testing-with-mock.html)
+* [New and Improved unittest 2: PyCon US 2010](https://pyvideo.org/pycon-us-2010/pycon-2010--new--and--improved--coming-changes-to.html)
+* [Michael Foord on IronPython: Hanselminutes 2009](https://player.fm/series/hanselminutes-fresh-talk-and-tech-for-developers/ironpython-with-michael-foord)
+
+
+
