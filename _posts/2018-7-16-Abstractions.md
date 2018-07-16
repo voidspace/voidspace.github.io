@@ -44,3 +44,6 @@ And here we come full circle. If the way you build your software maps well to th
 
 So abstractions matter. They’re the raw stuff of our world.
 
+
+
+*This post originally appeared on my personal blog [Abstractions on Unpolished Musings](http://www.michaelfoord.co.uk/2018/05/the-role-of-abstractions-in-software.html).*
