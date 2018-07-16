@@ -42,10 +42,5 @@ We can also use this kind of reasoning to think about product and system design.
 
 And here we come full circle. If the way you build your software maps well to the problem domain then it will be easy to reason about and maintain. If the abstractions you present to the user map well to the problem domain then it will be easier for your users to think within your system and it will be more intuitive to use.
 
-
-
 So abstractions matter. They’re the raw stuff of our world.
 
-
-
-You can watch the presentation, from the Saturday afternoon lightning talks, four minutes into this video.
