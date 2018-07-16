@@ -3,8 +3,11 @@ layout: post
 title: 'The Role of Abstractions in Software Engineering'
 ---
 
+![Abstract Representation of a Concrete Apple]({{ site.baseurl }}/images/concrete-apple.jpg)
 
-This is a video and text of a lightning talk, a five minute presentation, given at PyCon US 2018 in Cleveland.
+This is a video and text of a lightning talk, a five minute presentation, given at PyCon US 2018 in Cleveland. The image is an abstract representation of a concrete apple. 
+
+* [The Role of Software Abstractions Lightning Talk](https://youtu.be/c-I0md_3fbQ?t=255)
 
 This is an abstract talk. There isn’t time to give examples but I hope that the application to the day to day challenges of the practise of software engineering is clear. The only theory worth a damn is the theory of the practise. This is a talk about the role of abstractions in software engineering.
 
