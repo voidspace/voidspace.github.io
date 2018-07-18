@@ -20,11 +20,11 @@ For custom training packages, mentoring or team coaching please contact me: [mic
 
 * [Effective Testing with unittest and mock](/effective-testing/)
 
-  Practical testing techniques and principles with the standard library Python testing tools. Become a wizard with mock. Includes optional sections on py.test and web application testing with Selenium or Nightwatch.
+  Practical testing techniques and principles with the standard library Python testing tools. Become a wizard with mock. Covers both unit testing and functional end-to-end testing. Includes optional sections on py.test and web application testing with Selenium or Nightwatch.
 
-* TDD with Django
+* Test Driven Development with Django
 
-  An introduction to web application development and the testing of web applications with Selenium. Based on the course [TDD with Python by Harry Percival](https://www.obeythetestinggoat.com/). A two day course.
+  An introduction to web application development and the testing of web applications with Selenium. Based on the course [TDD with Python by Harry Percival](https://www.obeythetestinggoat.com/). A two day course on both the principles of automated testing, including performance of test suites, and practical techniques.
 
 
 ### Testimonials
