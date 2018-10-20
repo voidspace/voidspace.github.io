@@ -48,7 +48,9 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
     why it matters to you.
 
     Metaprogramming, operator overloading and the Python magic methods. Really understanding
-    Python as a language, bringing all the parts together.
+    Python as a language, bringing all the parts together. Build your own containers in Python,
+    understand the power and limitations of the built-in containers and how to customize the
+    behaviour of your own Python objects for easier use.
 
 4. MODERN APPROACHES TO EXCEPTION HANDLING
 
@@ -75,7 +77,7 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
 
 8. ADVANCED LANGUAGE TECHNIQUES
 
-    Decorators, class decorators, Iterators,  Generators and more.
+    Decorators, class decorators, Iterators, Generators and more.
 
 9. FUNCTIONAL PROGRAMMING
 
