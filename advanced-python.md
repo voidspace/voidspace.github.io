@@ -79,7 +79,9 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
 
 9. FUNCTIONAL PROGRAMMING
 
-    A highly practical approach to functional programming in Python.
+    A highly practical approach to functional programming in Python and why these are
+    such important every day concepts in Python programmings. Both the theory and the
+    practise.
 
     * lambda functions
     * Higher order functions
