@@ -12,7 +12,6 @@ really learn the material and techniques for themselves.
 This is a course offered by Agile Abstraction, either in house on your site or on our
 premises. For more details get in touch [michael@python.org](mailto:michael@python.org).
 
-
 This course makes a great follow up from [Practical Python](/practical-python) or courses
 like Python for data science that teach you the basics of the langauge. It's had great
 feedback from Developers, Testers, Data Scientists, Financial modellers and analysts
@@ -38,7 +37,7 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
     expressions for pulling structured data of text and byte oriented data.
 
     Discussion of other standard library packages and techniques for more powerful
-    text processing including templating library and `full blown parsers.
+    text processing including templating library and full blown parsers.
 
 2. Understanding Python Assignment
 
