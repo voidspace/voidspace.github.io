@@ -108,8 +108,9 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
 
 11. NETWORKING:
 
-    The requests library, the HTTP request response cycle, accesssing APIs, Stream Sockets,
-    Datagrams and more.
+    The requests library, the HTTP request response cycle, accesssing APIs and building API
+    clients, Stream Sockets and server clients, Datagrams and UDP server and clients and
+    more.
 
 12. WEB DEVELOPMENT
 
