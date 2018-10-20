@@ -32,43 +32,49 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
     unicdoe, byte-strings, everything the string class has to offer and how to make the
     best of regular expressions.
 
-2. ADVANCED OBJECT ORIENTATION
+2. Understanding Python Assignment
+
+    Python namespaces, why they are such an important and key part of Python and how
+    understanding Python assignement and Python namespaces makes it easier to understand
+    Python the language.
+
+3. ADVANCED OBJECT ORIENTATION
 
     The full Python object model. Python from the inside out.
 
     Inheritance, including multiple inheritance and the method resolution order (mro) and
     why it matters to you.
 
-    Metaprogramming and operator overloading.
+    Metaprogramming, operator overloading and the Python magic methods. Really understanding
+    Python as a language, bringing all the parts together.
 
-
-3. MODERN APPROACHES TO EXCEPTION HANDLING
+4. MODERN APPROACHES TO EXCEPTION HANDLING
 
     Full Python syntax and features for exception handling, how best to handle exceptions
     including best practises for development and topics like logging.
 
 
-4. INSTALLING, DEPLOYING and DISTRIBUTING PACKAGES and SYSTEMS
+5. INSTALLING, DEPLOYING and DISTRIBUTING PACKAGES and SYSTEMS
 
     ``pip`` and ``pip freeze``, what every developer should know.
 
 
-5. AGILE DEVELOPMENT WITH TDD IN PYTHON
+6. AGILE DEVELOPMENT WITH TDD IN PYTHON
 
     The advantages of the Test Driven Development approach (test first) and writing effective
     unit tests with both unittest and py.test and using mock objects.
 
-6. Organising Your Code
+7. Organising Your Code
 
     When code gets beyond a certain size using standard Python structural tools to
     better organise your code for refactoring, understanding, thinking about and
     distributing your code.
 
-7. ADVANCED LANGUAGE TECHNIQUES
+8. ADVANCED LANGUAGE TECHNIQUES
 
     Decorators, class decorators, Iterators,  Generators and more.
 
-8. FUNCTIONAL PROGRAMMING
+9. FUNCTIONAL PROGRAMMING
 
     A highly practical approach to functional programming in Python.
 
@@ -78,22 +84,23 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
     * currying and partial applications
     * closures
 
-9. A Data Science Overview
+10. A Data Science Overview
 
     A brief overview of working with Numpy, Pandas, OpenPyXl, MatplotLib, and so on.
 
-10. NETWORKING:
+11. NETWORKING:
 
     The requests library, the HTTP request response cycle, accesssing APIs, Stream Sockets,
     Datagrams and more.
 
-11. WEB DEVELOPMENT
+12. WEB DEVELOPMENT
 
     A full introduction to modern web development with the Flask web development framework
     including URL routing, view functions, security considerations, web forms and database
-    integration with the SQLAlchemy ORM.
+    integration with the SQLAlchemy ORM. How to write and create simple cross-team tools
+    delivered across private networks following modern best practises.
 
-12. THREADS AND CONCURRENCY
+13. THREADS AND CONCURRENCY
 
     Threading and Multiprocessing libraries and the dreaded GIL. Why it matters and when it
     doesn't matter, including how to avoid it with custom C/C++ extensions.
@@ -101,7 +108,7 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
     A dicsussion of distributed computing using techniques like message queues and distributed
     task libraries like celery.
 
-13. WORKING WITH DATABASES
+14. WORKING WITH DATABASES
 
     Connecting directly to databases from Python and using an ORM like SQLAlchemy to avoid the pain.
 
