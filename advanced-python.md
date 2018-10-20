@@ -110,7 +110,7 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
 
     The requests library, the HTTP request response cycle, accesssing APIs and building API
     clients, Stream Sockets and server clients, Datagrams and UDP server and clients and
-    more.
+    more. Powerful techques for inter-process communication when working with concurrency.
 
 12. WEB DEVELOPMENT
 
