@@ -103,7 +103,8 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
 13. THREADS AND CONCURRENCY
 
     Threading and Multiprocessing libraries and the dreaded GIL. Why it matters and when it
-    doesn't matter, including how to avoid it with custom C/C++ extensions.
+    doesn't matter, including how to avoid the pitfalls with multiprocessing and with
+    custom C/C++ extensions.
 
     A dicsussion of distributed computing using techniques like message queues and distributed
     task libraries like celery.
