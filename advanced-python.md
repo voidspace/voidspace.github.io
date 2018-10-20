@@ -70,7 +70,8 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
 
     When code gets beyond a certain size using standard Python structural tools to
     better organise your code for refactoring, understanding, thinking about and
-    distributing your code.
+    distributing your code. Python modules, packages, API design and migrating between
+    them.
 
 8. ADVANCED LANGUAGE TECHNIQUES
 
