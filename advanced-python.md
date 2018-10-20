@@ -6,7 +6,8 @@ permalink: /advanced-python/
 
 A three day course covering advanced language features and various aspects of the wider
 Python ecosystem. Tooling, best practises and common use cases for the Python programming
-language.
+language. A fast paced course with plenty of lab driven exercises to ensure attendees
+really learn the material and techniques for themselves.
 
 
 This course makes a great follow up from [Practical Python](/practical-python) or courses
