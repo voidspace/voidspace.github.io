@@ -47,7 +47,10 @@ For training packages available, including custom training and coaching:
 * Passionate about testing for ensuring quality of systems
 * Passionate about good engineering practises and sound system design thinking
 
-I'm also available for team coaching, individual and group mentoring and code review.
+I'm also available for team coaching, individual and group mentoring and code review. Putting
+in place best practises infrastructure and development practises, including standard
+Python tooling, like git workflows and gating, continuous integration systems and
+deployment systems.
 
 Professional Software Engineer with Python since 2006, programming with Python since 2002. Three years of Go experience. Four years of Windows desktop development with IronPython and C#. Awarded the Microsft MVP 2008-2010 and the [Python Software Foundation Community Award](http://pyfound.blogspot.com/2010/11/third-quarter-community-service-awards.html) in 2010. Regular speaker at PyCon, EuroPython and PyCon UK.
 
