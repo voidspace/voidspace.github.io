@@ -29,8 +29,9 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
 1. REGULAR EXPRESSIONS AND STRING PROCESSING
 
     Various advanced examples of using Python for working with text processing, including
-    unicdoe, byte-strings, everything the string class has to offer and how to make the
-    best of regular expressions.
+    the absolute minimum every developer should know about unicdoe and byte-strings,
+    everything the string class has to offer and how to make the best of regular
+    expressions for pulling structured data of text and byte oriented data.
 
 2. Understanding Python Assignment
 
@@ -40,7 +41,8 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
 
 3. ADVANCED OBJECT ORIENTATION
 
-    The full Python object model. Python from the inside out.
+    The full Python object model. Python from the inside out. Really understand Python
+    objects and classes.
 
     Inheritance, including multiple inheritance and the method resolution order (mro) and
     why it matters to you.
