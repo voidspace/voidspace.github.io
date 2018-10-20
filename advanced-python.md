@@ -48,6 +48,14 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
     Inheritance, including multiple inheritance and the method resolution order (mro) and
     why it matters to you.
 
+    Language features like:
+
+    * class methods
+    * bound methods
+    * properties
+
+    and how they tie together, including real world use cases.
+
     Metaprogramming, operator overloading and the Python magic methods. Really understanding
     Python as a language, bringing all the parts together. Build your own containers in Python,
     understand the power and limitations of the built-in containers and how to customize the
@@ -80,7 +88,7 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
 
 8. ADVANCED LANGUAGE TECHNIQUES
 
-    Decorators, class decorators, Iterators, Generators and more.
+    Decorators, decorator factories, class decorators, iterators, generators and more.
 
 9. FUNCTIONAL PROGRAMMING
 
