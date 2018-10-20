@@ -39,13 +39,13 @@ For training packages available, including custom training and coaching:
 
 * Python core developer and past maintainer of "unittest"
 * Teaching Introduction to Python and Python Mastery training courses since 2011
-* Author of [IronPython in Action](https://www.manning.com/books/ironpython-in-action) for Manning Publications
 * Creator of "mock", now in the Python standard library as "unittest.mock"
 * Four years experience of rigorous application of XP (Extreme Programming) agile programming including TDD
 * Four years of web application development with Django
 * Three years of experience developing with Go
 * Passionate about testing for ensuring quality of systems
 * Passionate about good engineering practises and sound system design thinking
+* Author of [IronPython in Action](https://www.manning.com/books/ironpython-in-action) for Manning Publications
 
 I'm also available for team coaching, individual and group mentoring and code review. Putting
 in place best practises infrastructure and development practises, including standard
