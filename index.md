@@ -4,7 +4,9 @@ title: Agile Abstractions: Michael Foord
 permalink: /
 ---
 
-I'm Michael Foord and I'm a Python trainer, coach and contractor. I specialise in teaching Python and the end-to-end automated testing of systems.
+I'm Michael Foord and I'm a Python trainer, coach and contractor. I specialise in
+teaching Python and the end-to-end automated testing of systems. I'm also available
+to mentor and coach teams in Python infrastructure, coding and development best practises.
 
 ### Software Engineering
 
@@ -19,7 +21,7 @@ can be easily maintained and extended.
 
 * [Best Practises for Software Development and Testing (Article)](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
 
-I'm available for training and consulting work in the UK and Europe.
+I'm available for training, coaching, mentoring and consulting work in the UK and Europe.
 
 ### Training
 
@@ -41,6 +43,7 @@ For training packages available, including custom training and coaching:
 * Creator of "mock", now in the Python standard library as "unittest.mock"
 * Four years experience of rigorous application of XP (Extreme Programming) agile programming including TDD
 * Four years of web application development with Django
+* Three years of experience developing with Go
 * Passionate about testing for ensuring quality of systems
 * Passionate about good engineering practises and sound system design thinking
 
@@ -54,6 +57,11 @@ years spent wrestling MongoDB for Juju.
 Organiser and compere of the Python Language Summit 2010-2014 and the Dynamic Languages VM Summit at PyCon 2011. Keynote speaker at [PyCon New Zealand 2013](https://www.youtube.com/watch?v=IWB_pQacuw4), [PyCon India 2014](https://www.youtube.com/watch?v=TXQDQFq3AAo).
 
 #### Past Work
+
+* 2018 Working with Gurock on building an end-to-end automated test system, including
+  web functional testing, API testing and load testing.
+
+* 2018 Training with JBI Training, Advanced Python, Begininng Pyton and Webscraping
 
 * 2011 - present
 
@@ -75,7 +83,7 @@ Organiser and compere of the Python Language Summit 2010-2014 and the Dynamic La
 
 * 2009 - 2010 Silverlight and Django Web Application Developer for COMsulting
 
-  Developing line-of-business web applications using Django and IronPython in the browser with Silverlight. 
+  Developing line-of-business web applications using Django and IronPython in the browser with Silverlight.
 
 * 2006 - 2009 Senior Software Engineer for Resolver Systems
 
@@ -87,6 +95,7 @@ To see my professional endorsements and more details of my career history, see m
 
 A selection of some of the talks and interviews I've given on Python and software engineering across my career.
 
+* [Interview on Podcast.__init__ on testing, Mock and the Python community (2018)](https://www.podcastinit.com/michael-foord-on-testing-mock-tdd-and-the-python-community-episode-171/)
 * [The Role of Abstractions: Lightning Talk PyCon US 2018](https://youtu.be/c-I0md_3fbQ?t=275)
 * [PyCon UK Panel 2015](https://eventil.com/presentations/L1see4-michael-foord-the-pycon-uk-panel)
 * [To the Clouds: EuroPython 2015](https://pyvideo.org/europython-2015/to-the-clouds-why-you-should-deploy-to-the-cloud-even-if-you-dont-want-to.html)

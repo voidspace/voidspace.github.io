@@ -5,26 +5,46 @@ permalink: /training/
 ---
 
 I've been teaching Python since 2011 and it's the thing I enjoy most in the world. Training can be delivered on-site, remotely or in Northampton, UK. Practical Python Programming and Advanced Python Mastery are courses taught on behalf of [David Beazley](https://dabeaz.com/teaching.html).
- 
+
 For custom training packages, mentoring or team coaching please contact me: [michael@python.org](mailto:michael@python.org)
 
 ### Training Courses
 
-* [Practical Python](/practical-python/) 
+* [Practical Python](/practical-python/)
 
-  A fast paced introduction to Python for programmers.
+  A fast paced introduction to Python for programmers. Re-skill existing programmers to
+  be efficient and skillful Python programmers. Covers the whole of the Python language.
+  A three day course.
 
 * [Advanced Python Mastery](/python-mastery/)
 
-  Become a Python expert, learning Python from the inside out.
+  Become a Python expert, learning Python from the inside out. Includes the deepest aspects
+  of the Python object model and advanced language features. A four day course.
 
-* [Effective Testing with unittest and mock](/effective-testing/)
+* [Advanced Python and the Python Ecosystem](/advanced-python/)
 
-  Practical testing techniques and principles with the standard library Python testing tools. Become a wizard with mock. Covers both unit testing and functional end-to-end testing. Includes optional sections on py.test and web application testing with Selenium or Nightwatch.
+  A three day course teaching advanced language features and best practises, plus a range
+  of topics including regular expressions, concurrency (threading and multiprocessing),
+  web development with Flask, databases and an overview of data science (numpy and pandas).
 
-* Test Driven Development with Django
+* [Beginning Python](/beginning-python/)
 
-  An introduction to web application development and the testing of web applications with Selenium. Based on the course [TDD with Python by Harry Percival](https://www.obeythetestinggoat.com/). A two day course on both the principles of automated testing, including performance of test suites, and practical techniques.
+  Getting technical non-programmers up to speed on Python, to be able to write Python
+  scripts and programs. A two day course.
+
+* [Webscraping and Web Testing with Python](/python-webscraping/)
+
+  Learn how to use tools like Selenium, requests and BeautifulSoup to test web
+  applications for functional testing or for webscraping. A one day course. Often
+  taught in conjuction with [Beginning Python](/beginning-python/).
+
+* [Effective Testing with unittest, py.test and mock](/effective-testing/)
+
+  Practical testing techniques and principles with the standard library Python testing
+  tools. Become a wizard with mock. Covers both unit testing and functional end-to-end
+  testing. Includes optional sections on py.test and web application testing with
+  Selenium or Nightwatch.
+
 
 
 ### Testimonials
