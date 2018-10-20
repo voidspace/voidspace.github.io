@@ -30,7 +30,8 @@ For custom training packages, mentoring or team coaching please contact me: [mic
 * [Beginning Python](/beginning-python/)
 
   Getting technical non-programmers up to speed on Python, to be able to write Python
-  scripts and programs. A two day course.
+  scripts and programs. Covers the basic language features and development practises.
+  Useful for testers and anyone getting starteed with Python. A two day course.
 
 * [Webscraping and Web Testing with Python](/python-webscraping/)
 
