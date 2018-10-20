@@ -64,10 +64,12 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
 
 7. FUNCTIONAL PROGRAMMING
 
+    A highly practical approach to functional programming in Python.
+
     * lambda functions
     * Higher order functions
     * nested functions
-    * currying
+    * currying and partial applications
     * closures
 
 8. A Data Science Overview
