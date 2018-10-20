@@ -52,6 +52,8 @@ in place best practises infrastructure and development practises, including stan
 Python tooling, like git workflows and gating, continuous integration systems and
 deployment systems.
 
+Extensive contacts within the Python community for hiring needs and interviewing technqiues.
+
 Professional Software Engineer with Python since 2006, programming with Python since 2002. Three years of Go experience. Four years of Windows desktop development with IronPython and C#. Awarded the Microsft MVP 2008-2010 and the [Python Software Foundation Community Award](http://pyfound.blogspot.com/2010/11/third-quarter-community-service-awards.html) in 2010. Regular speaker at PyCon, EuroPython and PyCon UK.
 
 Familiarity with industry standard tools such as git, mercurial, postgresql and jenkins. Three
