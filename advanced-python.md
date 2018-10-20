@@ -28,68 +28,72 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
 
 1. REGULAR EXPRESSIONS AND STRING PROCESSING
 
-Various advanced examples
+    Various advanced examples of using Python for working with text processing, including
+    unicdoe, byte-strings, everything the string class has to offer and how to make the
+    best of regular expressions.
 
 2. ADVANCED OBJECT ORIENTATION
 
-The full Python object model. Python from the inside out.
+    The full Python object model. Python from the inside out.
 
-Inheritance, including multiple inheritance and the method resolution order (mro) and
-why it matters to you.
+    Inheritance, including multiple inheritance and the method resolution order (mro) and
+    why it matters to you.
 
-Metaprogramming and operator overloading.
+    Metaprogramming and operator overloading.
 
 
 3. MODERN APPROACHES TO EXCEPTION HANDLING
 
-Full Python syntax and features for exception handling, how best to handle exceptions
-including best practises for development and topics like logging.
+    Full Python syntax and features for exception handling, how best to handle exceptions
+    including best practises for development and topics like logging.
 
 
-4. INSTALLING and DISTRIBUTING PACKAGES
+4. INSTALLING, DEPLOYING and DISTRIBUTING PACKAGES and SYSTEMS
 
-``pip`` and ``pip freeze``, what every developer should know.
+    ``pip`` and ``pip freeze``, what every developer should know.
 
 
 5. AGILE DEVELOPMENT WITH TDD IN PYTHON
 
-The advantages of the Test Driven Development approach (test first) and writing effective
-unit tests with both unittest and py.test and using mock objects.
+    The advantages of the Test Driven Development approach (test first) and writing effective
+    unit tests with both unittest and py.test and using mock objects.
 
 6. ADVANCED LANGUAGE TECHNIQUES
 
-Decorators, class decorators, Iterators,  Generators and more.
+    Decorators, class decorators, Iterators,  Generators and more.
 
 7. FUNCTIONAL PROGRAMMING
 
-* lambda functions
-* filters and maps
-* descriptors
-* nested functions
-* currying
-* closures
+    * lambda functions
+    * Higher order functions
+    * nested functions
+    * currying
+    * closures
 
 8. A Data Science Overview
 
-A brief overview of working with Numpy, Pandas, OpenPyXl, MatplotLib, and so on.
+    A brief overview of working with Numpy, Pandas, OpenPyXl, MatplotLib, and so on.
 
 9. NETWORKING:
 
-The requests library, the HTTP request response cycle, accesssing APIs, Stream Sockets,
-Datagrams and more.
+    The requests library, the HTTP request response cycle, accesssing APIs, Stream Sockets,
+    Datagrams and more.
 
 10. WEB DEVELOPMENT
 
-A full introduction to modern web development with the Flask web development framework
-including URL routing, view functions, security considerations, web forms and database
-integration with the SQLAlchemy ORM>
+    A full introduction to modern web development with the Flask web development framework
+    including URL routing, view functions, security considerations, web forms and database
+    integration with the SQLAlchemy ORM.
 
 12. THREADS AND CONCURRENCY
 
-Threading and Multiprocessing libraries and the dreaded GIL. Why it matters and when it
-doesn't matter, including how to avoid it with custom C/C++ extensions.
+    Threading and Multiprocessing libraries and the dreaded GIL. Why it matters and when it
+    doesn't matter, including how to avoid it with custom C/C++ extensions.
+
+    A dicsussion of distributed computing using techniques like message queues and distributed
+    task libraries like celery.
 
 13. WORKING WITH DATABASES
 
-Connecting directly to databases from Python and using an ORM like SQLAlchemy to avoid the pain.
+    Connecting directly to databases from Python and using an ORM like SQLAlchemy to avoid the pain.
 
