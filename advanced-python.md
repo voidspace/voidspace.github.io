@@ -34,6 +34,9 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
     everything the string class has to offer and how to make the best of regular
     expressions for pulling structured data of text and byte oriented data.
 
+    Discussion of other standard library packages and techniques for more powerful
+    text processing including templating library and full blown parsers.
+
 2. Understanding Python Assignment
 
     Python namespaces, why they are such an important and key part of Python and how
@@ -115,7 +118,7 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
 12. WEB DEVELOPMENT
 
     A full introduction to modern web development with the Flask web development framework
-    including URL routing, view functions, security considerations, web forms and database
+    including URL routing, view functions, templating with the Jinja2 library, security considerations, web forms and database
     integration with the SQLAlchemy ORM. How to write and create simple cross-team tools
     delivered across private networks following modern best practises.
 
