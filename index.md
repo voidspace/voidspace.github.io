@@ -95,7 +95,7 @@ To see my professional endorsements and more details of my career history, see m
 
 A selection of some of the talks and interviews I've given on Python and software engineering across my career.
 
-* [Interview on Podcast.__init__ on testing, Mock and the Python community (2018)](https://www.podcastinit.com/michael-foord-on-testing-mock-tdd-and-the-python-community-episode-171/)
+* [Interview on Podcast.\_\_init__ on testing, Mock and the Python community (2018)](https://www.podcastinit.com/michael-foord-on-testing-mock-tdd-and-the-python-community-episode-171/)
 * [The Role of Abstractions: Lightning Talk PyCon US 2018](https://youtu.be/c-I0md_3fbQ?t=275)
 * [PyCon UK Panel 2015](https://eventil.com/presentations/L1see4-michael-foord-the-pycon-uk-panel)
 * [To the Clouds: EuroPython 2015](https://pyvideo.org/europython-2015/to-the-clouds-why-you-should-deploy-to-the-cloud-even-if-you-dont-want-to.html)
