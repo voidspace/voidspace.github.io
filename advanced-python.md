@@ -61,7 +61,9 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
 
 5. INSTALLING, DEPLOYING and DISTRIBUTING PACKAGES and SYSTEMS
 
-    ``pip`` and ``pip freeze``, what every developer should know.
+    ``pip`` and ``pip freeze``, what every developer should know. A discussion of other
+    Python tools like code coverage and alternative package installation and management
+    tools.
 
 
 6. AGILE DEVELOPMENT WITH TDD IN PYTHON
