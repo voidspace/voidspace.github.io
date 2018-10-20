@@ -58,11 +58,17 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
     The advantages of the Test Driven Development approach (test first) and writing effective
     unit tests with both unittest and py.test and using mock objects.
 
-6. ADVANCED LANGUAGE TECHNIQUES
+6. Organising Your Code
+
+    When code gets beyond a certain size using standard Python structural tools to
+    better organise your code for refactoring, understanding, thinking about and
+    distributing your code.
+
+7. ADVANCED LANGUAGE TECHNIQUES
 
     Decorators, class decorators, Iterators,  Generators and more.
 
-7. FUNCTIONAL PROGRAMMING
+8. FUNCTIONAL PROGRAMMING
 
     A highly practical approach to functional programming in Python.
 
@@ -72,16 +78,16 @@ a tour of some of the more interesting libraries and frameworks available in Pyt
     * currying and partial applications
     * closures
 
-8. A Data Science Overview
+9. A Data Science Overview
 
     A brief overview of working with Numpy, Pandas, OpenPyXl, MatplotLib, and so on.
 
-9. NETWORKING:
+10. NETWORKING:
 
     The requests library, the HTTP request response cycle, accesssing APIs, Stream Sockets,
     Datagrams and more.
 
-10. WEB DEVELOPMENT
+11. WEB DEVELOPMENT
 
     A full introduction to modern web development with the Flask web development framework
     including URL routing, view functions, security considerations, web forms and database
