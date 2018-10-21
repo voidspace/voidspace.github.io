@@ -10,7 +10,7 @@ language. A fast paced course with plenty of lab driven exercises to ensure atte
 really learn the material and techniques for themselves.
 
 This is a course offered by Agile Abstraction, either in house on your site or on our
-premises. For more details get in touch [michael@python.org](mailto:michael@python.org).
+premises. For more details and pricing get in touch [michael@python.org](mailto:michael@python.org).
 
 This course makes a great follow up from [Practical Python](/practical-python) or courses
 like Python for data science that teach you the basics of the langauge. It's had great

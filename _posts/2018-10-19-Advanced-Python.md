@@ -1,10 +1,12 @@
 ---
 layout: post
-title: 'Advanced Python'
+title: 'Advanced Python and the Python Ecosystem'
 ---
 
 Hot on the heels of delivering this course successfully for JBI Training I'm now able to
 offer a three day course on Advanced Python and the Python ecosystem.
+
+* [Advanced Python and the Python Ecosystem](/advanced-python/)
 
 A three day course covering advanced language features and various aspects of the wider
 Python ecosystem. Tooling, best practises and common use cases for the Python programming
