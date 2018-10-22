@@ -43,6 +43,7 @@ For training packages available, including custom training and coaching:
 * Four years experience of rigorous application of XP (Extreme Programming) agile programming including TDD
 * Four years of web application development with Django
 * Three years of experience developing with Go
+* Four years of experience developing Windows desktop applications with .NET
 * Passionate about testing for ensuring quality of systems
 * Passionate about good engineering practises and sound system design thinking
 * Author of [IronPython in Action](https://www.manning.com/books/ironpython-in-action) for Manning Publications
