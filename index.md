@@ -72,7 +72,7 @@ Organiser and compere of the Python Language Summit 2010-2014 and the Dynamic La
 * 2011 - present
 
   Python teaching and training, from 2011-2018 on behalf of David Beazley. Primarily for
-  HP and HP enterprise in the UK and Ireland and hedge funds like CitadelKeep your .
+  HP and HP enterprise in the UK and Ireland and hedge funds including Citadel.
 
 * 2017 - 2018 Principle Test Automation Engineer for Red Hat Ansible
 
