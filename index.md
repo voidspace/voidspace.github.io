@@ -67,7 +67,7 @@ Organiser and compere of the Python Language Summit 2010-2014 and the Dynamic La
 * 2018 Working with Gurock on building an end-to-end automated test system, including
   web functional testing, API testing and load testing.
 
-* 2018 Training with JBI Training, Advanced Python, Begininng Python and Webscraping
+* 2018 Training with JBI Training, Advanced Python, Begininng Python and Webscraping.
 
 * 2011 - present
 
