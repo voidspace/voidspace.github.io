@@ -21,23 +21,17 @@ For custom training packages, mentoring or team coaching please contact me: [mic
   Become a Python expert, learning Python from the inside out. Includes the deepest aspects
   of the Python object model and advanced language features. A four day course.
 
-* [Advanced Python and the Python Ecosystem](/advanced-python/)
-
-  A three day course teaching advanced language features and best practises, plus a range
-  of topics including regular expressions, concurrency (threading and multiprocessing),
-  web development with Flask, databases and an overview of data science (numpy and pandas).
-
-* [Beginning Python](/beginning-python/)
+* Beginning Python
 
   Getting technical non-programmers up to speed on Python, to be able to write Python
   scripts and programs. Covers the basic language features and development practises.
   Useful for testers and anyone getting starteed with Python. A two day course.
 
-* [Webscraping and Web Testing with Python](/python-webscraping/)
+* Webscraping and Web Testing with Python
 
   Learn how to use tools like Selenium, requests and BeautifulSoup to test web
   applications for functional testing or for webscraping. A one day course. Often
-  taught in conjuction with [Beginning Python](/beginning-python/).
+  taught in conjuction with Beginning Python.
 
 * [Effective Testing with unittest, py.test and mock](/effective-testing/)
 
