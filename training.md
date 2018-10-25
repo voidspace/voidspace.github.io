@@ -21,13 +21,13 @@ For custom training packages, mentoring or team coaching please contact me: [mic
   Become a Python expert, learning Python from the inside out. Includes the deepest aspects
   of the Python object model and advanced language features. A four day course.
 
-* Beginning Python
+* [Beginning Python](/beginning-pythnon)
 
   Getting technical non-programmers up to speed on Python, to be able to write Python
   scripts and programs. Covers the basic language features and development practises.
   Useful for testers and anyone getting starteed with Python. A two day course.
 
-* Webscraping and Web Testing with Python
+* [Web Testing with Python and Selenium](/webtesting-scraping)
 
   Learn how to use tools like Selenium, requests and BeautifulSoup to test web
   applications for functional testing or for webscraping. A one day course. Often
