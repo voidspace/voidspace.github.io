@@ -20,7 +20,7 @@ course will teach you to make and fetch API requests for API testing, using sele
 interact with a website as a user and extract all the useful information
 from this, even from Javascript generated sites, using ``BeautifulSoup``.
 
-* [Webtesting Tools and Techniques](mailto:michael@python.org)
+* [Contact Details for Webtesting Tools and Techniques](mailto:michael@python.org)
 
 An essential part of testing any modern web application is "black box testing", sometimes called "fucntional testing".
 Interacting with the website as if you were a user. This gives you two insights:
@@ -28,6 +28,15 @@ Interacting with the website as if you were a user. This gives you two insights:
 1. What hoops do our users actually have to jump through to use our website, could they
    be easier or bettter designed for a better user experience (UX)?
 2. Does our website acutally work! Can users perform the actions they need without bugs!
+
+Finding bugs on your staging website with an automated testing suite using selenium is
+*waaaay* less embarrassing than having your customers discover them live on site. Minimal
+sets of tests can even be deleloped as "gating checks" for commits to master, making  it
+less likely that fundamentlly broken code can be delivered to production.
+
+For for functional tests speed of test run is always a trade-off against how much detail
+to test functionality in. This trade-off is one of the things we discuss and consider in
+this course.
 
 The same, or similar, tools and techniques can be used for testing web apis.
 

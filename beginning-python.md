@@ -23,7 +23,7 @@ day job.
 
 The aim of this course is to take people who don't know Python would like to be begin and
 end up in a place where they can write practical scripts and tools and enable them to learn
-further.
+further. Suitable for teachers, system-administrators, testers and anyone wanting to learn Python.
 
 It's a fast paced course, with lots of lab exercises to ensure participants really learn what
 is being taught. But the pace is adjusted to make sure everyone follows along.
