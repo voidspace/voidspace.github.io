@@ -14,8 +14,10 @@ those migrating from a testing role to a web programming role. It's often delive
 follow-on course form [Practical Python](/practical-python) or
 [Beginning Python](/beginning-python).
 
-The techniques on this course will teach you to make and fetch API requests for API testing,
-using selenium to interact with a website as a user and extract all the useful information
+I've been building web applications commercially for four years, and working with web apis
+interating with sites via selenium for even longer that that. The techniques on this
+course will teach you to make and fetch API requests for API testing, using selenium to
+interact with a website as a user and extract all the useful information
 from this, even from Javascript generated sites, using ``BeautifulSoup``.
 
 * [Webtesting Tools and Techniques](mailto:michael@python.org)

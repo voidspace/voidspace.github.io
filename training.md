@@ -27,7 +27,7 @@ For custom training packages, mentoring or team coaching please contact me: [mic
   scripts and programs. Covers the basic language features and development practises.
   Useful for testers and anyone getting starteed with Python. A two day course.
 
-* [Web Testing with Python and Selenium](/webtesting/)
+* [Web Testing with Python and Selenium](/web-testing/)
 
   Learn how to use tools like Selenium, requests and BeautifulSoup to test web
   applications for functional testing or for webscraping. A one day course. Often
