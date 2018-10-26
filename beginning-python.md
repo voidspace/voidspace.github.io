@@ -12,7 +12,8 @@ such as testers or scripters. It assumes no programming experience.
 If you're interesting in this course, which can be delivered on-site or on our premises
 and the contents can be tailored to your needs, please contact [Michael Foord](mailto:michael@python.org[])
 
-It's a great introduction course for course like [Practical Python](/practical-pthon/).
+It's a great introduction course for course like [Practical Python](/practical-pthon/)
+or [Web Testing with Python](/web-testing/).
 
 Python is a very powerful language, capable of building full systems and applications
 and used in image processing by film companies, data science by everyone and runs large
@@ -38,7 +39,7 @@ Starting Out: The Python Code Editor IDLE
 
 -   Getting started: does everyone have Python installed and can launch
     IDLE (or their preferred code editor)
--   Hello World! Creating and running your first Python program.y
+-   Hello World! Creating and running your first Python program.
 -   The command line. Running Python scripts from the command line.
 -   The interactive interpreter, your best friend for experimenting with
     Python.
