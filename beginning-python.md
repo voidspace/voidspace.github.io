@@ -12,7 +12,7 @@ such as testers or scripters. It assumes no programming experience.
 If you're interesting in this course, which can be delivered on-site or on our premises
 and the contents can be tailored to your needs, please contact [Michael Foord](mailto:michael@python.org[])
 
-It's a great introduction course for course like [Practical Python](/practical-pthon/)
+It's a great introduction course for courses like [Practical Python](/practical-pthon/)
 or [Web Testing with Python](/web-testing/).
 
 Python is a very powerful language, capable of building full systems and applications
@@ -35,7 +35,7 @@ Day 1
 =====
 
 Starting Out: The Python Code Editor IDLE
-=========================================
+-----------------------------------------
 
 -   Getting started: does everyone have Python installed and can launch
     IDLE (or their preferred code editor)
@@ -60,7 +60,7 @@ and expressions, comments and block structure by indentation. All vital
 concepts when programming with Python.
 
 Working with Numbers
-====================
+--------------------
 
 -   Integers and floating point numbers
 -   The dangers of floating point
@@ -70,7 +70,7 @@ Working with Numbers
 -   A note about other number types (decimals and fractions)
 
 Working with Text
-=================
+-----------------
 
 -   The string data-type
 -   The string data-type
@@ -87,7 +87,7 @@ Working with Text
 -   Converting data to strings with str and repr
 
 Basic Code Structure
-====================
+--------------------
 
 -   Loops
 -   If/else blocks
@@ -101,7 +101,7 @@ The Container Types
 -------------------
 
 The List
-========
+~~~~~~~~
 
 -   Splitting strings into a list
 -   Basic list operations
@@ -111,14 +111,14 @@ The List
 -   Sorting
 
 Dictionaries
-============
+~~~~~~~~~~~~
 
 -   The dictionary type
 -   When to use a dictionary rather than a list
 -   Dictionary operations and methods
 
 The file Type
-=============
+-------------
 
 -   Reading text to and from a file
 -   Bringing it together, a real world example of reading, processing
@@ -136,7 +136,7 @@ Python. Moving from scripts to programs.
 -   Function scope, globals and local variables
 
 Errors and Exception Handling
-=============================
+-----------------------------
 
 -   What happens when things go wrong
 -   What is an exception
@@ -154,7 +154,7 @@ Data Handling
 -   Working with sequences (len, max, min, indexing and slicing)
 
 Looping Revisited
-=================
+-----------------
 
 -   The for loop and iterables
 -   The loop variables
@@ -166,10 +166,10 @@ Looping Revisited
 -   List comprehensions, a handy shortcut
 
 Day 2
------
+=====
 
 Variables in Detail
-===================
+-------------------
 
 -   What happens with assignment
 -   It's a name not a variable
@@ -179,7 +179,7 @@ Variables in Detail
 -   Scope revisited
 
 Types
-=====
+-----
 
 -   Everything has a type
 -   Type converter functions
@@ -187,7 +187,7 @@ Types
 -   Everything is an object
 
 Program Structure: Functions Revisited and Modules
-==================================================
+--------------------------------------------------
 
 -   Organising your functions
 -   Default values and keyword arguments for functions
@@ -200,14 +200,14 @@ Program Structure: Functions Revisited and Modules
 -   Scripts as programs and as modules (the "main" module)
 
 The sys module
-==============
+--------------
 
 -   Introduction to sys
 -   Module search path and command line handling
 -   The input and output streams
 
 A Quick Tour of the Python Standard Library
-===========================================
+-------------------------------------------
 
 -   The os module and os.path (working with the underlying platform and
     files)
@@ -219,7 +219,7 @@ A Quick Tour of the Python Standard Library
 -   The random module for random numbers and data
 
 Object Orientation
-==================
+------------------
 
 An introduction to the object oriented features of Python. Mostly to
 understand Python objects and libraries rather than to write new
