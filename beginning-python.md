@@ -100,8 +100,7 @@ Basic Code Structure
 The Container Types
 -------------------
 
-The List
-~~~~~~~~
+**The List**
 
 -   Splitting strings into a list
 -   Basic list operations
@@ -110,8 +109,7 @@ The List
 -   List methods
 -   Sorting
 
-Dictionaries
-~~~~~~~~~~~~
+**Dictionaries**
 
 -   The dictionary type
 -   When to use a dictionary rather than a list
