@@ -19,9 +19,9 @@ produce through good practises and processes, whilst understanding that there ar
 always trade-offs involved. Quality means systems that work, that are stable and that
 can be easily maintained and extended.
 
-* [Best Practises for Software Development and Testing (Article)](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
-
 I'm available for training, coaching, mentoring and consulting work in the UK and Europe.
+
+* [Best Practises for Software Development and Testing (Article)](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
 
 ### Training
 
@@ -48,11 +48,9 @@ For training packages available, including custom training and coaching:
 * Passionate about good engineering practises and sound system design thinking
 * Author of [IronPython in Action](https://www.manning.com/books/ironpython-in-action) for Manning Publications
 
-I'm also available for team coaching, individual and group mentoring and code review. Putting
-in place best practises infrastructure and development practises, including standard
-Python tooling and continuous integration systems.
-
-Extensive contacts within the Python community for hiring needs, team building and candidate evaluation.
+I'm also available for team coaching, individual and group mentoring and code review. I can help teams put
+in place best practises infrastructure and development practises, including standard Python tooling and continuous 
+integration systems.
 
 Professional Software Engineer with Python since 2006, programming with Python since 2002. Three years of Go experience. Four years of Windows desktop development with IronPython and C#. Awarded the Microsft MVP 2008-2010 and the [Python Software Foundation Community Award](http://pyfound.blogspot.com/2010/11/third-quarter-community-service-awards.html) in 2010. Regular speaker at PyCon, EuroPython and PyCon UK.
 

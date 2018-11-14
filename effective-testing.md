@@ -41,7 +41,7 @@ This exercise driven course covers the mechanics of writing tests and a test fra
 
 * The patch decorator and context manager
 
-  How to weild patch for effective testing with mock objects.
+  How to wield patch for effective testing with mock objects.
 
 * mock tips and tricks
 
