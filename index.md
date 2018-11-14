@@ -50,8 +50,7 @@ For training packages available, including custom training and coaching:
 
 I'm also available for team coaching, individual and group mentoring and code review. Putting
 in place best practises infrastructure and development practises, including standard
-Python tooling, like git workflows and gating, continuous integration systems and
-deployment systems.
+Python tooling and continuous integration systems.
 
 Extensive contacts within the Python community for hiring needs, team building and candidate evaluation.
 
@@ -71,8 +70,8 @@ Organiser and compere of the Python Language Summit 2010-2014 and the Dynamic La
 
 * 2011 - present
 
-  Python teaching and training, from 2011-2018 on behalf of David Beazley. Primarily for
-  HP and HP enterprise in the UK and Ireland and hedge funds including Citadel.
+  Python teaching and training, from 2011-2018 on behalf of David Beazley for customers like 
+  HP and HP enterprise in the UK and Ireland.
 
 * 2017 - 2018 Principle Test Automation Engineer for Red Hat Ansible
 
