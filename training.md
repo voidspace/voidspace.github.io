@@ -33,14 +33,6 @@ For custom training packages, mentoring or team coaching please contact me: [mic
   applications for functional testing or for webscraping. A one day course. Often
   taught in conjuction with Beginning Python.
 
-* [Effective Testing with unittest, py.test and mock](/effective-testing/)
-
-  Practical testing techniques and principles with the standard Python testing
-  tools. Become a wizard with mock. Covers both unit testing and functional end-to-end
-  testing. Includes optional sections on py.test and web application testing with
-  Selenium.
-
-
 
 ### Testimonials
 
