@@ -14,7 +14,7 @@ My past customers include:
 * OnSemi (training)
 * JBI International (training)
 * Royal Ordnance Survey (training)
-* Panoramic Feedback (full stack web developer)
+* Panoramic Feedback (full stack web application developer)
 
 A fun excerpt from my most popular course, Advanced Python:
 
@@ -45,7 +45,7 @@ For other training packages available, including custom training:
 
 #### Past Work
 
-* 2022-23 Delivering training courses to over 200 engineers for OnSemi, an automotive semiconductor manufacturer. Advanced Python and Practical Python.
+* 2022-23 Delivering training courses to over 200 engineers for OnSemi, an automotive semiconductor manufacturer. Level 1 and level 2 Python (custom courses).
 * 2018-23 Training with JBI Training, Advanced Python, Begininng Python and Webscraping
 * 2021-23 Full stack developer for Panoramic Feedback, a Python web application
 * 2021 Six months contract work with the United Kingdom Atomic Energy Authority working on software for the design of fusion reactors, turning a Phd project into an engineering project

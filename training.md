@@ -10,11 +10,15 @@ For custom training packages, mentoring or team coaching please contact me: [mic
 
 ### Training Courses
 
+* [Advanced Python (3 days)](/advanced)
+
+  My most popular course. Advanced Python is a three day hands on course that will take you deeper into the Python programming language and ecosystem. This course will take delegates from beginner level in Python to Advanced Python experts. The course provides a solid overview of the Python language including some low level details essential to working confidently and fluidly with Python. The focus is on practical programming and the skills learned here can be applied in any field where Python is used.
+
 * [Practical Python](/practical-python/)
 
   A fast paced introduction to Python for programmers. Re-skill existing programmers to
   be efficient and skillful Python programmers. Covers the whole of the Python language.
-  A three day course.
+  A three or four day course.
 
 * [Advanced Python Mastery](/python-mastery/)
 
