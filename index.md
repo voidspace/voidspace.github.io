@@ -4,30 +4,38 @@ title: Agile Abstractions: Michael Foord
 permalink: /
 ---
 
-I'm Michael Foord and I'm a Python trainer, coach and contractor. I specialise in
-teaching Python and the end-to-end automated testing of systems. I'm also available
-to mentor and coach teams in Python infrastructure, coding and development best practises.
+I'm Michael Foord and I'm a Python trainer and contractor. I specialise in
+teaching Python and the end-to-end automated testing of systems.
 
-### Software Engineering
+My past customers include:
 
-I believe that software engineering is as much of an art and a craft as it is a science. I
-believe that engineers should care about usability, and that encompasses the whole of
-the human computer interface from direct user experience to API design. I’m passionate
-in my belief that testing must be part of engineering if we are to really care about
-quality. I believe, and my experience has been, that we can ensure quality in what we
-produce through good practises and processes, whilst understanding that there are
-always trade-offs involved. Quality means systems that work, that are stable and that
-can be easily maintained and extended.
+* UKAEA (contract work on BLUEPRINT software)
+* Bloomberg (training)
+* OnSemi (training)
+* JBI International (training)
+* Royal Ordnance Survey (training)
+* Panoramic Feedback (full stack web developer)
 
-I'm available for training, coaching, mentoring and consulting work in the UK and Europe.
+A fun excerpt from my most popular course, Advanced Python:
+
+{% include youtube.html id="4t6yzCCQ76I" %}
 
 * [Best Practises for Software Development and Testing (Article)](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
 
 ### Training
 
-For training packages available, including custom training and coaching:
+Most of my training is now delivered remotely, via Zoom or Teams, but I'm available for onsite training.
+
+My most popular courses are:
+
+* [Advanced Python (3 days)](/advanced)
+* [Practical Python (3 or 4 days)](/practical-python)
+
+
+For other training packages available, including custom training:
 
 * [Python & Testing Training Courses](/training)
+
 
 
 ### Contact me
@@ -35,36 +43,15 @@ For training packages available, including custom training and coaching:
 [michael@python.org](mailto:michael@python.org)
 
 
-### CV
-
-* Python core developer and past maintainer of "unittest"
-* Teaching Introduction to Python and Python Mastery training courses since 2011
-* Creator of "mock", now in the Python standard library as "unittest.mock"
-* Four years experience of rigorous application of XP (Extreme Programming) agile programming including TDD
-* Four years of web application development with Django
-* Three years of experience developing with Go
-* Four years of experience developing Windows desktop applications with .NET
-* Passionate about testing for ensuring quality of systems
-* Passionate about good engineering practises and sound system design thinking
-* Author of [IronPython in Action](https://www.manning.com/books/ironpython-in-action) for Manning Publications
-
-I'm also available for team coaching, individual and group mentoring and code review. I can help teams put
-in place best practises infrastructure and development practises, including standard Python tooling and continuous 
-integration systems.
-
-Professional Software Engineer with Python since 2006, programming with Python since 2002. Three years of Go experience. Four years of Windows desktop development with IronPython and C#. Awarded the Microsft MVP 2008-2010 and the [Python Software Foundation Community Award](http://pyfound.blogspot.com/2010/11/third-quarter-community-service-awards.html) in 2010. Regular speaker at PyCon, EuroPython and PyCon UK.
-
-Familiarity with industry standard tools such as git, mercurial, postgresql and jenkins. Three
-years spent wrestling MongoDB for Juju.
-
-Organiser and compere of the Python Language Summit 2010-2014 and the Dynamic Languages VM Summit at PyCon 2011. Keynote speaker at [PyCon New Zealand 2013](https://www.youtube.com/watch?v=IWB_pQacuw4), [PyCon India 2014](https://www.youtube.com/watch?v=TXQDQFq3AAo).
-
 #### Past Work
 
+* 2022-23 Delivering training courses to over 200 engineers for OnSemi, an automotive semiconductor manufacturer. Advanced Python and Practical Python.
+* 2018-23 Training with JBI Training, Advanced Python, Begininng Python and Webscraping
+* 2021-23 Full stack developer for Panoramic Feedback, a Python web application
+* 2021 Six months contract work with the United Kingdom Atomic Energy Authority working on software for the design of fusion reactors, turning a Phd project into an engineering project
+* 2020 Teaching Advanced Python Mastery for Bloomberg, four courses delivered in London and Frankfurt
 * 2018 Working with Gurock on building an end-to-end automated test system, including
   web functional testing, API testing and load testing.
-
-* 2018 Training with JBI Training, Advanced Python, Begininng Python and Webscraping.
 
 * 2011 - present
 
@@ -99,6 +86,8 @@ To see my professional endorsements and more details of my career history, see m
 
 A selection of some of the talks and interviews I've given on Python and software engineering across my career.
 
+* [PyCon MEA 2022 How Python Took Over the World](https://www.youtube.com/watch?v=gv8VA1KugWk&ab_channel=GlobalDevSlam)
+* [PyCon Belarus 2020 How Python Took Over the World](https://www.youtube.com/watch?v=EFJzsKvi8lU&t=17s&ab_channel=SPACE)
 * [Interview on Podcast.\_\_init__ on testing, Mock and the Python community (2018)](https://www.podcastinit.com/michael-foord-on-testing-mock-tdd-and-the-python-community-episode-171/)
 * [The Role of Abstractions: Lightning Talk PyCon US 2018](https://youtu.be/c-I0md_3fbQ?t=275)
 * [Best Practises for Software Development and Testing (2017)](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
