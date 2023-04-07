@@ -7,18 +7,20 @@ permalink: /
 I'm Michael Foord and I'm a Python trainer and contractor. I specialise in
 teaching Python and the end-to-end automated testing of systems.
 
-My past customers include:
+Recent customers include:
 
-* UKAEA (contract work on BLUEPRINT software)
-* Bloomberg (training)
+* Panoramic Feedback (full stack web application developer)
 * OnSemi (training)
 * JBI International (training)
+* UKAEA (contract work on BLUEPRINT software)
+* Bloomberg (training)
 * Royal Ordnance Survey (training)
-* Panoramic Feedback (full stack web application developer)
 
 A fun excerpt from my most popular course, Advanced Python:
 
 {% include youtube.html id="4t6yzCCQ76I" %}
+
+My favourite article, on software development and testing best practises:
 
 * [Best Practises for Software Development and Testing (Article)](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
 
@@ -41,6 +43,10 @@ For other training packages available, including custom training:
 ### Contact me
 
 [michael@python.org](mailto:michael@python.org)
+
+My favourite presentation from PyLondinium 2019: The Python Object Model 
+
+{% include youtube.html id="qqW4QYTeD40" %}
 
 
 #### Past Work
@@ -88,6 +94,7 @@ A selection of some of the talks and interviews I've given on Python and softwar
 
 * [PyCon MEA 2022 How Python Took Over the World](https://www.youtube.com/watch?v=gv8VA1KugWk&ab_channel=GlobalDevSlam)
 * [PyCon Belarus 2020 How Python Took Over the World](https://www.youtube.com/watch?v=EFJzsKvi8lU&t=17s&ab_channel=SPACE)
+* [PyLondinium 2019 The Python Object Model](https://www.youtube.com/watch?v=qqW4QYTeD40&ab_channel=PyLondinium)
 * [Interview on Podcast.\_\_init__ on testing, Mock and the Python community (2018)](https://www.podcastinit.com/michael-foord-on-testing-mock-tdd-and-the-python-community-episode-171/)
 * [The Role of Abstractions: Lightning Talk PyCon US 2018](https://youtu.be/c-I0md_3fbQ?t=275)
 * [Best Practises for Software Development and Testing (2017)](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
