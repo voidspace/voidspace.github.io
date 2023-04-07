@@ -9,6 +9,11 @@ Advanced Python is a three day hands on course that will take you deeper into th
 In this course delegates will learn a great deal of Python, from an essential foundation like how assignment works to taking advantage of multicore systems with multiprocessing. Included is netowrking, from REST APIs to socket servers, and an overview of modern data science tools including data handling with Pandas and numpy, visualisation with matplotlib and working with Excel through openpyxl. 
 
 
+A fun excerpt from Advanced Python:
+
+{% include youtube.html id="4t6yzCCQ76I" %}
+
+
 * A thorough overview of Python and its features
 * A focus on industry best practises and avoiding common pitfalls
 * An in depth understanding of the Python machine and how Python works
