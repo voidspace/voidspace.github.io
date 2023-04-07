@@ -91,7 +91,7 @@ Advanced Language Features
 * Iterators
 * Generators
 * References and mutable objects
-* Inherited decorators with __init_subclass__
+* Inherited decorators with \_\_init_subclass\_\_
 
 Threads and Concurrency
 
@@ -99,6 +99,7 @@ Threads and Concurrency
 * Threads in Python
 * The Global Interpreter Lock
 * Take advantage of multicore with multiprocessing
+* Shared memory with multiprocessing
 
 Modern Approaches to Exception Handling
 
