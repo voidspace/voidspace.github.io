@@ -13,6 +13,7 @@ A fun excerpt from Advanced Python:
 
 {% include youtube.html id="4t6yzCCQ76I" %}
 
+## Course Contents
 
 * A thorough overview of Python and its features
 * A focus on industry best practises and avoiding common pitfalls
@@ -33,14 +34,14 @@ A fun excerpt from Advanced Python:
 * Easy and effective testing with unittest
 
 
-Text Processing
+### Text Processing
 
 * The power of Python strings
 * Understanding Unicode and text in Python
 * Processing semi-structured data with regular expressions
 * Handling binary data with bytes
 
-Advanced Object Orientation
+### Advanced Object Orientation
 
 * The Python object model
 * Inside Python objects
@@ -56,7 +57,7 @@ Advanced Object Orientation
 * Object oriented theory
 * Object composition
 
-Code Organisation
+### Code Organisation
 
 * Modules and packages
 * Organising your packages
@@ -67,7 +68,7 @@ Code Organisation
 * Best practises for Pythonic code
 * Circular imports
 
-Working with Data
+### Working with Data
 
 * The power of the built-in types
 * Understanding data with Python
@@ -76,7 +77,7 @@ Working with Data
 * Pandas, numpy and matplotlib (and seaborn)
 * Work with Excel with openpyxl
 
-Functional Programming
+### Functional Programming
 
 * Higher order functions
 * Closures
@@ -84,7 +85,7 @@ Functional Programming
 * Partial application
 * Map-reduce
 
-Advanced Language Features
+### Advanced Language Features
 
 * Decorators and decorator factories
 * Class decorators
@@ -93,7 +94,7 @@ Advanced Language Features
 * References and mutable objects
 * Inherited decorators with \_\_init_subclass\_\_
 
-Threads and Concurrency
+### Threads and Concurrency
 
 * Concurrency on modern computers
 * Threads in Python
@@ -101,7 +102,7 @@ Threads and Concurrency
 * Take advantage of multicore with multiprocessing
 * Shared memory with multiprocessing
 
-Modern Approaches to Exception Handling
+### Modern Approaches to Exception Handling
 
 * Best practises and common pitfalls
 * Understanding the stack and controlling tracebacks
@@ -109,14 +110,14 @@ Modern Approaches to Exception Handling
 * Logging and debugging
 * Multiple approaches to error handling
 
-Networking
+### Networking
 
 * The http request-response cycle
 * Making requests
 * REST APIs and the requests library
 * Sockets, tcp servers and clients
 
-Testing and TDD
+### Testing and TDD
 
 * Testing with unittest
 * Test modules and test cases
@@ -124,7 +125,7 @@ Testing and TDD
 * Test first, TDD
 * Assert methods and testing principles
 
-The Python Ecosystem
+### The Python Ecosystem
 
 * The Python standard library
 * Develop with virtual environments
