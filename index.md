@@ -51,6 +51,8 @@ My favourite presentation from PyLondinium 2019: The Python Object Model
 
 #### Past Work
 
+Highlights of the last few years.
+
 * 2022-23 Delivering training courses to over 200 engineers for OnSemi, an automotive semiconductor manufacturer. Level 1 and level 2 Python (custom courses).
 * 2018-23 Training with JBI Training, Advanced Python, Begininng Python and Webscraping
 * 2021-23 Full stack developer for Panoramic Feedback, a Python web application
