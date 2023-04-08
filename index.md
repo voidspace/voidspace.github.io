@@ -110,3 +110,15 @@ A selection of some of the talks and interviews I've given on Python and softwar
 * [Michael Foord on IronPython: Hanselminutes 2009](https://player.fm/series/hanselminutes-fresh-talk-and-tech-for-developers/ironpython-with-michael-foord)
 * [Michael Foord on IronPython: TechEd 2007](https://www.youtube.com/watch?v=aSYT52Q8Mf4)
 
+### Testimonials
+
+*Truly a professional. Knowledgeable, prepared to answer any question from theory and/or experience. Funny, intuitive and very helpful in any technical way.*
+
+*The course was very well planned out. Michael was a great teacher!*
+
+*The course was great, lots of exercises to apply what you were learning. Very good course.*
+
+*Deep technical background and hands-on experience could give good answers on all questions raised.*
+
+*One of best trainings that I ever attended.*
+
