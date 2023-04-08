@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Agile Abstractions: Michael Foord
+title: Agile Abstractions\: Michael Foord
 permalink: /
 ---
 
@@ -54,6 +54,7 @@ Highlights of the last few years.
 
 * 2022-23 Delivering training courses to over 200 engineers for OnSemi, an automotive semiconductor manufacturer. Level 1 and level 2 Python (custom courses).
 * 2018-23 Training with JBI Training, Advanced Python, Begininng Python and Webscraping
+* 2022 Teaching Text mining and SQL and databases for Cambridge Spark
 * 2021-23 Full stack developer for Panoramic Feedback, a Python web application (including implementing 2FA with Twilio)
 * 2021 Six months contract work with the United Kingdom Atomic Energy Authority working on software for the design of fusion reactors, turning a Phd project into an engineering project
 * 2020 Delivering a Natural Language Processing AI project and training for GlobalMedia
