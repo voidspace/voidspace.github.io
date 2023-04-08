@@ -56,7 +56,7 @@ Highlights of the last few years.
 * 2018-23 Training with JBI Training, Advanced Python, Begininng Python and Webscraping
 * 2021-23 Full stack developer for Panoramic Feedback, a Python web application (including implementing 2FA with Twilio)
 * 2021 Six months contract work with the United Kingdom Atomic Energy Authority working on software for the design of fusion reactors, turning a Phd project into an engineering project
-* 2020 Delivering a Natural Language Processing AI project and course for GlobalMedia
+* 2020 Delivering a Natural Language Processing AI project and training for GlobalMedia
 * 2020 Teaching Advanced Python Mastery for Bloomberg, four courses delivered in London and Frankfurt
 * 2018 Working with Gurock on building an end-to-end automated test system, including
   web functional testing, API testing, a pytest plugin and full API client
