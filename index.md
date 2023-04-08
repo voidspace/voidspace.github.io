@@ -39,14 +39,13 @@ For other training packages available, including custom training:
 * [Python & Testing Training Courses](/training)
 
 
+My favourite presentation from PyLondinium 2019: The Python Object Model 
+
+{% include youtube.html id="qqW4QYTeD40" %}
 
 ### Contact me
 
 [michael@python.org](mailto:michael@python.org)
-
-My favourite presentation from PyLondinium 2019: The Python Object Model 
-
-{% include youtube.html id="qqW4QYTeD40" %}
 
 
 #### Past Work
@@ -55,11 +54,12 @@ Highlights of the last few years.
 
 * 2022-23 Delivering training courses to over 200 engineers for OnSemi, an automotive semiconductor manufacturer. Level 1 and level 2 Python (custom courses).
 * 2018-23 Training with JBI Training, Advanced Python, Begininng Python and Webscraping
-* 2021-23 Full stack developer for Panoramic Feedback, a Python web application
+* 2021-23 Full stack developer for Panoramic Feedback, a Python web application (including implementing 2FA with Twilio)
 * 2021 Six months contract work with the United Kingdom Atomic Energy Authority working on software for the design of fusion reactors, turning a Phd project into an engineering project
+* 2020 Delivering a Natural Language Processing AI project and course for GlobalMedia
 * 2020 Teaching Advanced Python Mastery for Bloomberg, four courses delivered in London and Frankfurt
 * 2018 Working with Gurock on building an end-to-end automated test system, including
-  web functional testing, API testing and load testing.
+  web functional testing, API testing, a pytest plugin and full API client
 
 * 2011 - present
 
@@ -95,6 +95,7 @@ To see my professional endorsements and more details of my career history, see m
 A selection of some of the talks and interviews I've given on Python and software engineering across my career.
 
 * [PyCon MEA 2022 How Python Took Over the World](https://www.youtube.com/watch?v=gv8VA1KugWk&ab_channel=GlobalDevSlam)
+* [Test and Code Podcast Episode 145: For Those About to Mock](https://testandcode.com/145)
 * [PyCon Belarus 2020 How Python Took Over the World](https://www.youtube.com/watch?v=EFJzsKvi8lU&t=17s&ab_channel=SPACE)
 * [PyLondinium 2019 The Python Object Model](https://www.youtube.com/watch?v=qqW4QYTeD40&ab_channel=PyLondinium)
 * [Interview on Podcast.\_\_init__ on testing, Mock and the Python community (2018)](https://www.podcastinit.com/michael-foord-on-testing-mock-tdd-and-the-python-community-episode-171/)
