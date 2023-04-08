@@ -59,8 +59,7 @@ Highlights of the last few years.
 * 2020 Delivering a Natural Language Processing AI project and training for GlobalMedia
 * 2020 Teaching Advanced Python Mastery for Bloomberg, four courses delivered in London and Frankfurt
 * 2018 Working with Gurock on building an end-to-end automated test system, including
-  web functional testing, API testing, a pytest plugin and full API client
-
+  web functional testing with Selenium, API testing, a pytest plugin and full API client
 * 2011 - present
 
   Python teaching and training, from 2011-2018 on behalf of David Beazley for customers like 
