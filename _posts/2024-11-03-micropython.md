@@ -27,8 +27,8 @@ I have a github repository to track my tinkering, but I'd like to write up some 
 
 The github repository and ZumoBot links:
 
-* https://github.com/voidspace/zumobot
-* https://thepihut.com/products/zumo-2040-robot-assembled-with-75-1-hp-motors 
-* https://www.pololu.com/product/5012
-* https://github.com/pololu/zumo-2040-robot
+* [https://github.com/voidspace/zumobot](https://github.com/voidspace/zumobot)
+* [https://thepihut.com/products/zumo-2040-robot-assembled-with-75-1-hp-motors](https://thepihut.com/products/zumo-2040-robot-assembled-with-75-1-hp-motors) 
+* [https://www.pololu.com/product/5012](https://www.pololu.com/product/5012)
+* [https://github.com/pololu/zumo-2040-robot](https://github.com/pololu/zumo-2040-robot)
 
