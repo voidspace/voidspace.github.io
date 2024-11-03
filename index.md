@@ -9,12 +9,12 @@ teaching Python and the end-to-end automated testing of systems.
 
 Recent customers include:
 
+* The BBC
+* Gigaclear Ltd
 * Panoramic Feedback (full stack web application developer)
 * OnSemi (training)
 * JBI International (training)
 * UKAEA (contract work on BLUEPRINT software)
-* Bloomberg (training)
-* Royal Ordnance Survey (training)
 
 A fun excerpt from my most popular course, Advanced Python:
 
@@ -31,13 +31,18 @@ Most of my training is now delivered remotely, via Zoom or Teams, but I'm availa
 My most popular courses are:
 
 * [Advanced Python (3 days)](/advanced)
-* [Practical Python (3 or 4 days)](/practical-python)
+* [Introduction to Python (3 days)](/practical-python)
 
+I also teach:
 
-For other training packages available, including custom training:
-
-* [Python & Testing Training Courses](/training)
-
+* Object Oriented Theory with Python (2 or 3 days)
+* Test automation with pytest or unittest (1 or 2 days)
+  * Testing principles and practise
+  * Mocking and patching
+  * Selenium or Playwright for browser automation
+  * httpx or requests for API clients
+* Learning SQL 
+* Bespoke courses
 
 My favourite presentation from PyLondinium 2019: The Python Object Model 
 
@@ -52,8 +57,10 @@ My favourite presentation from PyLondinium 2019: The Python Object Model
 
 Highlights of the last few years.
 
+* 2024 Teaching Object Oriented Theory with Python for the BBC
+* 2023-current Team lead, building backend API servers for Gigaclear Ltd
 * 2022-23 Delivering training courses to over 200 engineers for OnSemi, an automotive semiconductor manufacturer. Level 1 and level 2 Python (custom courses).
-* 2018-23 Training with JBI Training, Advanced Python, Practical Python, Webscraping, etc
+* 2018-current Training with JBI Training, Advanced Python, Practical Python, Webscraping, etc
 * 2022 Teaching Text mining and SQL and databases for Cambridge Spark
 * 2021-23 Full stack developer for Panoramic Feedback, a Python web application (including implementing 2FA with Twilio)
 * 2021 Six months contract work with the United Kingdom Atomic Energy Authority working on software for the design of fusion reactors, turning a Phd project into an engineering project
