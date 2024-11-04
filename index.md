@@ -9,8 +9,8 @@ teaching Python and the end-to-end automated testing of systems.
 
 Recent customers include:
 
-* The BBC
-* Gigaclear Ltd
+* The BBC (training)
+* Gigaclear Ltd (team lead, backend API development)
 * Panoramic Feedback (full stack web application developer)
 * OnSemi (training)
 * JBI International (training)
