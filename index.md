@@ -5,7 +5,7 @@ permalink: /
 ---
 
 I'm Michael Foord and I'm a Python trainer and contractor. I specialise in
-teaching Python and the end-to-end automated testing of systems. My passion is for simplicity and clarity in code and for well designed systems. As a Python core developer I wrote parts of unittest and created the mock library which became [unittest.mock](https://docs.python.org/3/library/unittest.mock.html).
+teaching Python and the end-to-end automated testing of systems. My passion is for simplicity and clarity in code, efficient lioghtweight processes and for well designed systems. As a Python core developer I wrote parts of unittest and created the mock library which became [unittest.mock](https://docs.python.org/3/library/unittest.mock.html).
 
 Recent customers include:
 
