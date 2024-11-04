@@ -141,4 +141,4 @@ A selection of some of the talks and interviews I've given on Python and softwar
 ### Technologies
 
 Python, Advanced Python, C#, Go, Linux, docker, postgresql, SQL, MongoDB, git, unitttest, pytest, TDD,
-Django, SQLAlchemy, CI, Jenkins/Travis, devops, AWS, Scrum, Selenium, Flask, OOP, REST, APIs, async, threads, multiprocessing.
+Django, SQLAlchemy, CI, Jenkins/Travis, devops, AWS, Scrum, Selenium, Flask, OOP, REST, APIs, async, threads, multiprocessing, OWASP, security.
