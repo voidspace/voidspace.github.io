@@ -44,6 +44,12 @@ I also teach:
 * Learning SQL 
 * Bespoke courses
 
+
+Several one hour sessions, seven so far, on a range of Python topics from generators to the concurrency to testing with pytest are available on YouTube. :
+
+* [Python Knowledge Share Videos on YouTube](/python-knowledge-share-videos/)
+
+
 My favourite presentation from PyLondinium 2019: The Python Object Model 
 
 {% include youtube.html id="qqW4QYTeD40" %}
@@ -101,6 +107,7 @@ To see my professional endorsements and more details of my career history, see m
 
 A selection of some of the talks and interviews I've given on Python and software engineering across my career.
 
+* [UK Health Security Agency Software Development Practise Conf 2024](https://github.com/voidspace/talks/blob/main/healthsecurityagency/ukhsa.pdf)
 * [PyCon MEA 2022 How Python Took Over the World](https://www.youtube.com/watch?v=gv8VA1KugWk&ab_channel=GlobalDevSlam)
 * [Test and Code Podcast Episode 145: For Those About to Mock](https://testandcode.com/145)
 * [PyCon Belarus 2020 How Python Took Over the World](https://www.youtube.com/watch?v=EFJzsKvi8lU&t=17s&ab_channel=SPACE)
