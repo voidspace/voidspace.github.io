@@ -41,7 +41,7 @@ I also teach:
   * Mocking and patching
   * Selenium or Playwright for browser automation
   * httpx or requests for API clients
-* Learning SQL 
+* Learning SQL
 * Bespoke courses
 
 
@@ -50,7 +50,7 @@ Several one hour sessions, seven so far, on a range of Python topics from genera
 * [Python Knowledge Share Videos on YouTube](/python-knowledge-share-videos/)
 
 
-My favourite presentation from PyLondinium 2019: The Python Object Model 
+My favourite presentation from PyLondinium 2019: The Python Object Model
 
 {% include youtube.html id="qqW4QYTeD40" %}
 
@@ -64,7 +64,8 @@ My favourite presentation from PyLondinium 2019: The Python Object Model
 Highlights of the last few years.
 
 * 2024 Teaching Object Oriented Theory with Python for the BBC
-* 2023-current Team lead, building backend API servers for Gigaclear Ltd
+* 2024 [Scrummaster certification](/scrummaster/) with Agile Alliance
+* 2023-current Team lead, [building backend API servers for Gigaclear Ltd](/gigaclear-ots/)
 * 2022-23 Delivering training courses to over 200 engineers for OnSemi, an automotive semiconductor manufacturer. Level 1 and level 2 Python (custom courses).
 * 2018-current Training with JBI Training, Advanced Python, Practical Python, Webscraping, etc
 * 2022 Teaching Text mining and SQL and databases for Cambridge Spark
@@ -74,9 +75,9 @@ Highlights of the last few years.
 * 2020 Teaching Advanced Python Mastery for Bloomberg, four courses delivered in London and Frankfurt
 * 2018 Working with Gurock on building an end-to-end automated test system, including
   web functional testing with Selenium, API testing, a pytest plugin and full API client
-* 2011 - present
+* 2011 - 2018
 
-  Python teaching and training, from 2011-2018 on behalf of David Beazley for customers like 
+  Python teaching and training, from 2011-2018 on behalf of David Beazley for customers like
   HP and HP enterprise in the UK and Ireland.
 
 * 2017 - 2018 Principle Test Automation Engineer for Red Hat Ansible
@@ -108,6 +109,7 @@ To see my professional endorsements and more details of my career history, see m
 A selection of some of the talks and interviews I've given on Python and software engineering across my career.
 
 * [UK Health Security Agency Software Development Practise Conf 2024](https://github.com/voidspace/talks/blob/main/healthsecurityagency/ukhsa.pdf)
+* [PyCon UK 2023, Metaclasses in 5 Minutes Lightning Talk](https://www.youtube.com/watch?v=O2ApDUsPDSc&t=2656s)
 * [PyCon MEA 2022 How Python Took Over the World](https://www.youtube.com/watch?v=gv8VA1KugWk&ab_channel=GlobalDevSlam)
 * [Test and Code Podcast Episode 145: For Those About to Mock](https://testandcode.com/145)
 * [PyCon Belarus 2020 How Python Took Over the World](https://www.youtube.com/watch?v=EFJzsKvi8lU&t=17s&ab_channel=SPACE)
@@ -135,4 +137,3 @@ A selection of some of the talks and interviews I've given on Python and softwar
 *Deep technical background and hands-on experience could give good answers on all questions raised.*
 
 *One of best trainings that I ever attended.*
-
