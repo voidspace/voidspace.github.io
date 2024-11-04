@@ -5,7 +5,7 @@ permalink: /
 ---
 
 I'm Michael Foord and I'm a Python trainer and contractor. I specialise in
-teaching Python and the end-to-end automated testing of systems.
+teaching Python and the end-to-end automated testing of systems. My passion is for simplicity and clarity in code and for well designed systems.
 
 Recent customers include:
 
@@ -137,3 +137,8 @@ A selection of some of the talks and interviews I've given on Python and softwar
 *Deep technical background and hands-on experience could give good answers on all questions raised.*
 
 *One of best trainings that I ever attended.*
+
+### Technologies
+
+Python, Advanced Python, C#, Go, Linux, docker, postgresql, SQL, MongoDB, git, unitttest, pytest, TDD,
+Django, SQLAlchemy, CI, Jenkins/Travis, devops, AWS, Scrum, Selenium, Flask, OOP, REST, APIs, async, threads, multiprocessing.
