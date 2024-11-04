@@ -18,12 +18,62 @@ The slides for each of the sessions, along with some example code, can be found 
 So far there are seven one-hour sessions (with more planned) on:
 
 * [Python Core Object Model](https://www.youtube.com/watch?v=O25ro9U2Br4&list=PLzeg33w0Au4wgaHk3-hyGIXNU_WRBMgvq&index=1&ab_channel=MichaelFoord)
+    * Python objects
+    * Slots
+    * Attribute lookup and the MRO
+    * Inheritance, multiple inheritance and super
+    * Inside Python objects and classes
 * [Closures and decorators (functional programming)](https://www.youtube.com/watch?v=koannusBFGU&list=PLzeg33w0Au4wgaHk3-hyGIXNU_WRBMgvq&index=3&ab_channel=MichaelFoord)
+    * Functional programming: higher order functions and functions as objects
+    * Lambdas
+    * Closures: functions that build functions
+    * Variable scoping: global, local and nonlocal
+    * Decorators: functions wrapping functions
+    * Decorator factories (decorators that take arguments)
+    * Class decorators
+    * Decorator order and using functools.wraps
 * [Generators and Iterators](https://www.youtube.com/watch?v=yadfyn6-TzE&list=PLzeg33w0Au4wgaHk3-hyGIXNU_WRBMgvq&index=4&ab_channel=MichaelFoord)
+    * The iteration protocol
+    * Stateful iteration with generators
+    * Adding iteration support to objects
+    * References, assignment and mutability
+    * Identity versus equality
+    * Call by object
+    * Object copying
 * [Unicode, Floats and regex](https://www.youtube.com/watch?v=X3RBs0zau2w&list=PLzeg33w0Au4wgaHk3-hyGIXNU_WRBMgvq&index=5&ab_channel=MichaelFoord)
+    * Floating point numbers
+    * Unicode, encodings and strings
+    * Regular expressions
 * [Concurrency (async, threads, processes, the GIL)](https://www.youtube.com/watch?v=fwb1u-V81sk&list=PLzeg33w0Au4wgaHk3-hyGIXNU_WRBMgvq&index=2&ab_channel=MichaelFoord)
+    * The history of concurrency from AmigaOS to a multi-core world
+    * Python and the Global Interpreter Lock
+    * I/O bound and CPU bound tasks
+    * Threads and processes
+    * Async programming (green threading, coroutines)
+    * Concurrency with threads
+    * Concurrency with multiprocessing
+    * Looking to the future (Python 3.13): optional GIL (PEP 703) and subinterpreters (PEP 554)
 * [Testing with pytest](https://www.youtube.com/watch?v=ZgfpAXAB_0Y&list=PLzeg33w0Au4wgaHk3-hyGIXNU_WRBMgvq&index=7&ab_channel=MichaelFoord)
+    * virtual environments and pipenv (installing pytest)
+    * pytest command line for collecting and running tests
+    * Simple test functions and asserts
+    * Test fixtures and conftest.py
+    * Testing exceptions
+    * Test parameterisation for test combinations
+    * Test marking for running test subsets
+    * Principles of testing (unit tests versus end to end testing, building test helpers etc)
+    * Mocking and patching
 * [Modules and Namespaces](https://www.youtube.com/watch?v=VuKWsoDogq8&list=PLzeg33w0Au4wgaHk3-hyGIXNU_WRBMgvq&index=8&ab_channel=MichaelFoord)
+    * Import syntax variations
+    * namespaces and variable lookups
+    * sys.modules and the import cache
+    * Module objects
+    * Module level functionality: \_\_dir\__ and \_\_getattr__
+    * Packages and the filesystem
+    * Relative import syntax
+    * Module reloading (how to do it and why not to do it)
+    * Circular imports, avoiding and fixing
+    * Executable modules and packages
 
 ## Other Talks
 
