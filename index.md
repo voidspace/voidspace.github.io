@@ -122,6 +122,7 @@ A selection of some of the talks and interviews I've given on Python and softwar
 * [Automated Deployments with Juju: PyCon UK 2014](https://pyvideo.org/pycon-uk-2014/repeatable-automated-deployments-with-juju.html)
 * [Python and Pythons: PyCon NZ 2013](https://www.youtube.com/watch?v=IWB_pQacuw4)
 * [Testing with Mock: PyCon US 2011](https://pyvideo.org/pycon-us-2011/pycon-2011--testing-with-mock.html)
+* [A Little Bit of Python Podcast (2010-11)](https://hackerpublicradio.org/series/0038.html)
 * [New and Improved unittest 2: PyCon US 2010](https://pyvideo.org/pycon-us-2010/pycon-2010--new--and--improved--coming-changes-to.html)
 * [Michael Foord on IronPython: Hanselminutes 2009](https://player.fm/series/hanselminutes-fresh-talk-and-tech-for-developers/ironpython-with-michael-foord)
 * [Michael Foord on IronPython: TechEd 2007](https://www.youtube.com/watch?v=aSYT52Q8Mf4)
