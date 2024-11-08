@@ -96,4 +96,5 @@ A selection of some of the talks and interviews I've given on Python and softwar
 * [A Little Bit of Python Podcast (2010-11)](https://hackerpublicradio.org/series/0038.html)
 * [New and Improved unittest 2: PyCon US 2010](https://pyvideo.org/pycon-us-2010/pycon-2010--new--and--improved--coming-changes-to.html)
 * [Michael Foord on IronPython: Hanselminutes 2009](https://player.fm/series/hanselminutes-fresh-talk-and-tech-for-developers/ironpython-with-michael-foord)
+* [IronPython in Action (2009, book)](https://www.manning.com/books/ironpython-in-action)
 * [Michael Foord on IronPython: TechEd 2007](https://www.youtube.com/watch?v=aSYT52Q8Mf4)
