@@ -14,7 +14,7 @@ Recent customers include:
 * Panoramic Feedback (full stack web application developer)
 * OnSemi (training)
 * JBI International (training)
-* UKAEA (contract work on BLUEPRINT software)
+* UKAEA (contract work on BLUEPRINT software for designing fusion reactors)
 
 A fun excerpt from my most popular course, Advanced Python:
 
