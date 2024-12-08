@@ -4,7 +4,7 @@ title: Beginning Python
 permalink: /beginning-python/
 ---
 
-This is a two day course aimed to take technical non-programmers to the place where
+This is a three day course aimed to take technical non-programmers to the place where
 they can write and understand simple scripts and programmers. Particularly useful as
 an introduction for the language for new programmers or for those retraining for jobs
 such as testers or scripters. It assumes no programming experience.

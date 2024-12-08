@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Practical Python
+title: Introduction to Python
 permalink: /practical-python/
 ---
 

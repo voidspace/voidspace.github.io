@@ -9,7 +9,7 @@ teaching Python and the end-to-end automated testing of systems.
 
 Recent customers include:
 
-* The BBC (training)
+* The BBC & BT (training)
 * Gigaclear Ltd (team lead, backend API development)
 * Panoramic Feedback (full stack web application developer)
 * OnSemi (training)
@@ -32,18 +32,11 @@ My most popular courses are:
 
 * [Advanced Python (3 days)](/advanced)
 * [Introduction to Python (3 days)](/practical-python)
+* [Object Oriented Theory with Python (2 days)](/oopwithpython)
+* [Secure Python Web Application Development (2 days)](/security)
+* [Testing with pytest (1 day)](/testing-pytest)
 
-I also teach:
-
-* Object Oriented Theory with Python (2 or 3 days)
-* Test automation with pytest or unittest (1 or 2 days)
-  * Testing principles and practise
-  * Mocking and patching
-  * Selenium or Playwright for browser automation
-  * httpx or requests for API clients
-* Learning SQL 
-* Bespoke courses
-
+Bespoke courses are also available. [Contact me](mailto:michael@python.org)
 
 Several one hour sessions, seven so far, on a range of Python topics from generators to the concurrency to testing with pytest are available on YouTube. :
 
@@ -63,7 +56,8 @@ My favourite presentation from PyLondinium 2019: The Python Object Model
 
 Highlights of the last few years.
 
-* 2024 Teaching Object Oriented Theory with Python for the BBC
+* 2024-25 Teaching Object Oriented Theory with Python for the BBC
+* 2024 Teaching Advanced Python for BT
 * 2023-current Team lead, building backend API servers for Gigaclear Ltd
 * 2022-23 Delivering training courses to over 200 engineers for OnSemi, an automotive semiconductor manufacturer. Level 1 and level 2 Python (custom courses).
 * 2018-current Training with JBI Training, Advanced Python, Practical Python, Webscraping, etc
