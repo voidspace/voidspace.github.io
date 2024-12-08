@@ -32,7 +32,7 @@ My most popular courses are:
 
 * [Advanced Python (3 days)](/advanced)
 * [Introduction to Python (3 days)](/practical-python)
-* [Object Oriented Theory with Python (2 days)](/oopwithpython)
+* [Object Oriented Theory with Python (2 days)](/oopwithpython/)
 * [Secure Python Web Application Development (2 days)](/security)
 * [Testing with pytest (1 day)](/testing-pytest)
 
