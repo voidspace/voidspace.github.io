@@ -5,7 +5,7 @@ permalink: /
 ---
 
 I'm Michael Foord and I'm a Python trainer and contractor. I specialise in
-teaching Python and the end-to-end automated testing of systems.
+teaching Python and the end-to-end automated testing of systems. My passion is for simplicity and clarity in code, efficient lightweight processes and for well designed systems. As a Python core developer I wrote parts of unittest and created the mock library which became [unittest.mock](https://docs.python.org/3/library/unittest.mock.html).
 
 Recent customers include:
 
@@ -14,7 +14,7 @@ Recent customers include:
 * Panoramic Feedback (full stack web application developer)
 * OnSemi (training)
 * JBI International (training)
-* UKAEA (contract work on BLUEPRINT software)
+* UKAEA (contract work on BLUEPRINT software for designing fusion reactors)
 
 A fun excerpt from my most popular course, Advanced Python:
 
@@ -36,14 +36,14 @@ My most popular courses are:
 * [Secure Python Web Application Development (2 days)](/security)
 * [Testing with pytest (1 day)](/testing-pytest)
 
-Bespoke courses are also available. [Contact me](mailto:michael@python.org)
+Bespoke courses, e.g. web scraping and SQL, are also available. [Contact me](mailto:michael@python.org)
 
 Several one hour sessions, seven so far, on a range of Python topics from generators to the concurrency to testing with pytest are available on YouTube. :
 
 * [Python Knowledge Share Videos on YouTube](/python-knowledge-share-videos/)
 
 
-My favourite presentation from PyLondinium 2019: The Python Object Model 
+My favourite presentation from PyLondinium 2019: The Python Object Model
 
 {% include youtube.html id="qqW4QYTeD40" %}
 
@@ -58,7 +58,8 @@ Highlights of the last few years.
 
 * 2024-25 Teaching Object Oriented Theory with Python for the BBC
 * 2024 Teaching Advanced Python for BT
-* 2023-current Team lead, building backend API servers for Gigaclear Ltd
+* 2024 [Scrummaster certification](/scrummaster/) with Agile Alliance
+* 2023-current Team lead, [building backend API servers for Gigaclear Ltd](/gigaclear-ots/)
 * 2022-23 Delivering training courses to over 200 engineers for OnSemi, an automotive semiconductor manufacturer. Level 1 and level 2 Python (custom courses).
 * 2018-current Training with JBI Training, Advanced Python, Practical Python, Webscraping, etc
 * 2022 Teaching Text mining and SQL and databases for Cambridge Spark
@@ -68,9 +69,9 @@ Highlights of the last few years.
 * 2020 Teaching Advanced Python Mastery for Bloomberg, four courses delivered in London and Frankfurt
 * 2018 Working with Gurock on building an end-to-end automated test system, including
   web functional testing with Selenium, API testing, a pytest plugin and full API client
-* 2011 - present
+* 2011 - 2018
 
-  Python teaching and training, from 2011-2018 on behalf of David Beazley for customers like 
+  Python teaching and training, from 2011-2018 on behalf of David Beazley for customers like
   HP and HP enterprise in the UK and Ireland.
 
 * 2017 - 2018 Principle Test Automation Engineer for Red Hat Ansible
@@ -102,6 +103,7 @@ To see my professional endorsements and more details of my career history, see m
 A selection of some of the talks and interviews I've given on Python and software engineering across my career.
 
 * [UK Health Security Agency Software Development Practise Conf 2024](https://github.com/voidspace/talks/blob/main/healthsecurityagency/ukhsa.pdf)
+* [PyCon UK 2023, Metaclasses in 5 Minutes Lightning Talk](https://www.youtube.com/watch?v=O2ApDUsPDSc&t=2656s)
 * [PyCon MEA 2022 How Python Took Over the World](https://www.youtube.com/watch?v=gv8VA1KugWk&ab_channel=GlobalDevSlam)
 * [Test and Code Podcast Episode 145: For Those About to Mock](https://testandcode.com/145)
 * [PyCon Belarus 2020 How Python Took Over the World](https://www.youtube.com/watch?v=EFJzsKvi8lU&t=17s&ab_channel=SPACE)
@@ -114,8 +116,10 @@ A selection of some of the talks and interviews I've given on Python and softwar
 * [Automated Deployments with Juju: PyCon UK 2014](https://pyvideo.org/pycon-uk-2014/repeatable-automated-deployments-with-juju.html)
 * [Python and Pythons: PyCon NZ 2013](https://www.youtube.com/watch?v=IWB_pQacuw4)
 * [Testing with Mock: PyCon US 2011](https://pyvideo.org/pycon-us-2011/pycon-2011--testing-with-mock.html)
+* [A Little Bit of Python Podcast (2010-11)](https://hackerpublicradio.org/series/0038.html)
 * [New and Improved unittest 2: PyCon US 2010](https://pyvideo.org/pycon-us-2010/pycon-2010--new--and--improved--coming-changes-to.html)
 * [Michael Foord on IronPython: Hanselminutes 2009](https://player.fm/series/hanselminutes-fresh-talk-and-tech-for-developers/ironpython-with-michael-foord)
+* [IronPython in Action (2009, book)](https://www.manning.com/books/ironpython-in-action)
 * [Michael Foord on IronPython: TechEd 2007](https://www.youtube.com/watch?v=aSYT52Q8Mf4)
 
 ### Testimonials
@@ -130,3 +134,7 @@ A selection of some of the talks and interviews I've given on Python and softwar
 
 *One of best trainings that I ever attended.*
 
+### Technologies
+
+Python, Advanced Python, C#, Go, Linux, docker, postgresql, SQL, MongoDB, git, unitttest, pytest, TDD,
+Django, SQLAlchemy, CI, Jenkins/Travis, devops, AWS, Scrum, Selenium, Flask, OOP, REST, APIs, async, threads, multiprocessing, OWASP, security.
