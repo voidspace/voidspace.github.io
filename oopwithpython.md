@@ -76,25 +76,27 @@ Object oriented theory:
 
 Optional advanced section (third day):
 
-4. Advanced OOP Concepts
+1. Advanced OOP Concepts
 
-* Interfaces and API design
-* Abstract base classes and protocols
-* Type hints and static typing with mypy
-* Class decorators
-* Metaclasses
-* Context managers and the with statement
-* Weak references and destructors
+   * Interfaces and API design
+   * Abstract base classes and protocols
+   * Type hints and static typing with mypy
+   * Class decorators
+   * Decoration via inheritance with \_\_init_sublass__
+   * Metaclasses
+   * Context managers and the with statement
+   * Weak references and destructors
+   * The descriptor protocol
 
 
-5. OOP Design Principles
+2. OOP Design Principles
 
-* SOLID principles
-* Law of Demeter
-* Liskov Substitution Principle
-* Composition vs inheritance
-* Domain Driven Design
-* Test Driven Development
-* Stop writing classes
-* The hexagon pattern (microservices)
-* The C4 Model for system architecture
+   * SOLID principles
+   * Law of Demeter
+   * Liskov Substitution Principle
+   * Composition vs inheritance
+   * Domain Driven Design
+   * Test Driven Development
+   * Stop writing classes
+   * The hexagon pattern (microservices)
+   * The C4 Model for system architecture
