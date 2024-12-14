@@ -6,6 +6,8 @@ permalink: /advanced/
 
 Advanced Python is a modular course that can be tailored to the clients needs. Typically taught as a three day hands on course that will take you deeper into the Python programming language and ecosystem. This course will take delegates from beginner/intermediate level in Python to Advanced Python experts. The course provides a solid overview of the Python language including some low level details essential to working confidently and fluidly with Python. The focus is on practical programming and the skills learned here can be applied in any field where Python is used.
 
+This course is taught by Michael Foord, a contributor to core Python itself, the creator of unittest.mock, with over ten years of experience teaching Python and twenty years of industry experience working with Python.
+
 In this course delegates will learn a great deal of Python, from an essential foundation like how assignment works to taking advantage of multicore systems with multiprocessing. Included is networking, from API clients to understanding sockets and how servers work - the request response cycle of the REST API model, language features like closures, generators, context managers and the whole Python object model along with testing with pytest.
 
 For smart programmers this course provides a solid foundation for working with Python along with many advanced language features and concepts and powerful libraries for tackling many common programming scenarios. As well as learning and discussion every section is backed by lab exercises.
