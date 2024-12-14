@@ -49,6 +49,7 @@ Inside Python Objects
 Python Protocols
 
 * Magic methods and Python protocols
+* Operator overloading
 * The string representation protocol
 * The container protocols
 * Implementing custom containers
