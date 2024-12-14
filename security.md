@@ -52,9 +52,9 @@ Network security with TLS:
 
 Michael Foord has been a Python application developer for over twenty years, is a Python core developer and the creator of unittest.mock, and is the author of "The Absolute Minimum Every Python Web Application Developer Must Know About Security".
 
-##Topics Covered:
+## Topics Covered:
 
-###Core Python Security Fundamentals
+### Core Python Security Fundamentals
 
 * Security principles and defence in depth strategies with Python frameworks
 * Implementing OWASP Top 10 protections in Django, Flask and FastAPI applications
@@ -65,7 +65,7 @@ Michael Foord has been a Python application developer for over twenty years, is 
 * Zero trust architecture fundamentals
 * Building zero trust architecture with OpenZiti's Python SDK
 
-###Cryptography and Data Security
+### Cryptography and Data Security
 
 * Hashing, encryption, and digital signatures
 * Symmetric encryption and public key encryption

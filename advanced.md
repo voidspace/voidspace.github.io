@@ -6,7 +6,16 @@ permalink: /advanced/
 
 Advanced Python is a modular course that can be tailored to the clients needs. Typically taught as a three day hands on course that will take you deeper into the Python programming language and ecosystem. This course will take delegates from beginner/intermediate level in Python to Advanced Python experts. The course provides a solid overview of the Python language including some low level details essential to working confidently and fluidly with Python. The focus is on practical programming and the skills learned here can be applied in any field where Python is used.
 
-In this course delegates will learn a great deal of Python, from an essential foundation like how assignment works to taking advantage of multicore systems with multiprocessing. Included is networking, from REST APIs to socket servers, and an overview of modern data science tools including data handling with Pandas and numpy, visualisation with matplotlib and working with Excel through openpyxl. 
+In this course delegates will learn a great deal of Python, from an essential foundation like how assignment works to taking advantage of multicore systems with multiprocessing. Included is networking, from REST APIs to socket servers, and an overview of modern data science tools including data handling with Pandas and numpy, visualisation with matplotlib and working with Excel through openpyxl.
+
+
+====================================
+
+
+
+
+
+====================================
 
 
 A fun excerpt from Advanced Python:

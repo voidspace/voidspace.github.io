@@ -26,6 +26,8 @@ My favourite article, on software development and testing best practises:
 
 ### Training
 
+* [Python Training Courses](/training/)
+
 Most of my training is now delivered remotely, via Zoom or Teams, but I'm available for onsite training.
 
 My most popular courses are:
