@@ -25,6 +25,7 @@ Web application frameworks:
 
 Third party libraries for cryptography and secure network access:
 
+* authlib
 * cryptography
 * httpx and requests
 * websocket
@@ -51,38 +52,47 @@ Network security with TLS:
 
 Michael Foord has been a Python application developer for over twenty years, is a Python core developer and the creator of unittest.mock, and is the author of "The Absolute Minimum Every Python Web Application Developer Must Know About Security".
 
-Topics Covered:
-Core Fundamentals
+##Topics Covered:
 
+###Core Python Security Fundamentals
+
+* Security principles and defence in depth strategies with Python frameworks
+* Implementing OWASP Top 10 protections in Django, Flask and FastAPI applications
 * Security principles and defence in depth strategies
-* Understanding and mitigating OWASP Top 10 vulnerabilities
-* Principles from The OWASP Testing Project
+* Principles from The OWASP Web Security Testing Guide
 * Threat modelling and the security requirements document
 * The principles of least privilege and deny by default
 * Zero trust architecture fundamentals
+* Building zero trust architecture with OpenZiti's Python SDK
 
-Cryptography and Data Security
+###Cryptography and Data Security
 
 * Hashing, encryption, and digital signatures
 * Symmetric encryption and public key encryption
 * Secure password storage and management
+* Using Python's hashlib and hmac modules for secure hashing
 * Using Python's cryptography libraries correctly
 * Data encryption at rest and in transit
+* Data encryption at rest using Django's encrypted model fields and SQLAlchemy StringEncryptedType
 
-Authentication and Authorization
+### Authentication and Authorization
 
 * Secure session management
 * OAuth 2.0 and JWT for authentication
+* Oauth2 with the Python library authlib
+* JWT handling with PyJWT and managing token lifecycles
 * Role-based access control (RBAC), plus alternatives
 * Multi-factor authentication
 * Managing access tokens and permissions
 
-Secure Coding Practices
+### Secure Coding Practices
 
 * Proven security with modern cryptography algorithms
 * Protection against SQL injection
 * Input validation and sanitisation
-* Logging sanitisation
+* Using secrets vs random for cryptographic operations
+* Sanitizing logs in Python applications
+* Django template escaping and Flask/Jinja2 for XSS prevention
 * Preventing timing attacks and token prediction attacks
 * Cryptographically secure randomness
 * Cross-site scripting (XSS) prevention
@@ -90,26 +100,27 @@ Secure Coding Practices
 * Secure file handling and upload validation
 * Preventing TLS downgrade attacks
 
-Network Security
+### Network Security
 
 * Networking fundamentals
 * TLS/SSL implementation and certificate management
 * Secure API design and implementation
 * WebSocket security
 * Network architecture and segmentation
-* Firewalls, DNS, HTTP, and other protocols
+* Firewalls, routers, network interfaces
+* Protocols, HTTP & TLS, with the Python standard library
 * Application deployment
 * Software Defined Networking
 
-Infrastructure Security
+### Infrastructure Security
 
 * Container security best practices
 * Secure deployment patterns
 * Network interfaces and routing
-* DMZ architecture
+* Building DMZ architectures for Python web applications
 * Virtual private networks (VPN)
 
-Security Tools and Testing
+### Security Tools and Testing
 
 * Static analysis with bandit and ruff
 * Dependency scanning using pip-audit
@@ -117,12 +128,12 @@ Security Tools and Testing
 * Container scanning and runtime protection
 * Code review practices for security
 
-Operational Security
+### Operational Security
 
 * Live security alerts
 * Statutory duties around security
-* Monitoring and logging best practices
-* Maintaining security over time
+* Monitoring Python applications for security issues
+* Security patch management for Python applications
 * Updating and patching strategies
 
 The course includes practical exercises throughout, with participants implementing secure coding patterns, identifying vulnerabilities in sample code, and building secure components.
