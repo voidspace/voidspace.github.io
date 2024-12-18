@@ -30,3 +30,5 @@ To add:
  * More detail on testing principles
  * Update to uv instead of pipenv
 
+This course is taught by Michael Foord. Michael has been teaching Python for over a decade and has over twenty years industry experience as an application developer. Michael is a Python core developer and the creator of [unittest.mock](https://docs.python.org/3/library/unittest.mock.html) in the Python standard library, and is the author of [The Absolute Minimum Every Python Web Application Developer Must Know About Security](https://opensource.net/essential-python-web-security/).
+

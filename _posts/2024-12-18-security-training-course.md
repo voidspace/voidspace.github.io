@@ -51,7 +51,7 @@ Network security with TLS:
 * mTLS for enhanced security
 * Generating self-signed certificates for local development, with the cryptography library
 
-Michael Foord has been a Python application developer for over twenty years, is a Python core developer and the creator of unittest.mock, and is the author of "The Absolute Minimum Every Python Web Application Developer Must Know About Security".
+Michael Foord has been a Python application developer for over twenty years, is a Python core developer and the creator of [unittest.mock](https://docs.python.org/3/library/unittest.mock.html) in the Python standard library, and is the author of [The Absolute Minimum Every Python Web Application Developer Must Know About Security](https://opensource.net/essential-python-web-security/).
 
 ## Topics Covered:
 

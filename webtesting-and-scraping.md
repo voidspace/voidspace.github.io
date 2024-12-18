@@ -22,6 +22,8 @@ course will teach you to make and fetch API requests for API testing, using sele
 interact with a website as a user and extract all the useful information
 from this, even from Javascript generated sites, using ``BeautifulSoup``.
 
+This course is taught by Michael Foord. Michael has been teaching Python for over a decade and has over twenty years industry experience as an application developer. Michael is a Python core developer and the creator of [unittest.mock](https://docs.python.org/3/library/unittest.mock.html) in the Python standard library, and is the author of [The Absolute Minimum Every Python Web Application Developer Must Know About Security](https://opensource.net/essential-python-web-security/).
+
 * [Contact Details for Webtesting Tools and Techniques](mailto:michael@python.org)
 
 An essential part of testing any modern web application is "black box testing", sometimes called "fucntional testing".

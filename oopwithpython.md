@@ -8,8 +8,7 @@ A practical two day course on the object oriented features of Python. Perfect fo
 
 The references and assignment section fills in gaps on the low level details of Python whilst the course covers the full object model. Learn how all Python object works, Python objects inside and out. The course is hands on with exercises for all the topics. Principles of API design, objects for data abstraction, and best practises are discussed throughout the course.
 
-This course is taught by Michael Foord, a contributor to core Python itself, the creator of unittest.mock, with over ten years of experience teaching Python and twenty years of industry experience working with Python.
-
+This course is taught by Michael Foord. Michael has been teaching Python for over a decade and has over twenty years industry experience as an application developer. Michael is a Python core developer and the creator of [unittest.mock](https://docs.python.org/3/library/unittest.mock.html) in the Python standard library, and is the author of [The Absolute Minimum Every Python Web Application Developer Must Know About Security](https://opensource.net/essential-python-web-security/).
 
 Fundamentals: Classes and methods
 

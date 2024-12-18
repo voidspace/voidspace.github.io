@@ -20,9 +20,10 @@ A fun excerpt from my most popular course, Advanced Python:
 
 {% include youtube.html id="4t6yzCCQ76I" %}
 
-My favourite article, on software development and testing best practises:
+My favourite articles, on software development and testing best practises and secure web application development:
 
 * [Best Practises for Software Development and Testing (Article)](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
+* [Essential Python Web Security](https://opensource.net/essential-python-web-security/)
 
 ### Training
 

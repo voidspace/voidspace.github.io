@@ -4,7 +4,7 @@ title: Python Training Courses
 permalink: /training/
 ---
 
-All courses are taught by Michael Foord, a contributor to core Python itself, author of [IronPython in Action](https://www.manning.com/books/ironpython-in-action), and the creator of unittest.mock. Michael has over ten years of experience teaching Python and twenty years of industry experience working with Python.
+All courses are taught by Michael Foord. Michael has been teaching Python for over a decade and has over twenty years industry experience as an application developer. Michael is a Python core developer and the creator of [unittest.mock](https://docs.python.org/3/library/unittest.mock.html) in the Python standard library, and is the author of [The Absolute Minimum Every Python Web Application Developer Must Know About Security](https://opensource.net/essential-python-web-security/).
 
 Most of my training is now delivered remotely, via Zoom or Teams, but I'm available for onsite training.
 
