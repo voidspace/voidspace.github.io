@@ -5,7 +5,7 @@ title: 'New Course: Secure Python Web Application Development'
 
 This two day course covers Full Stack Security with the Defence in Depth approach. It covers important security principles, and mitigating specific vulnerabilities including The OWASP Top Ten, but is focused on secure Python web application development.
 
-* [Object Oriented Programming Theory with Python](/oopwithpython/)
+* [Secure Python Web Application Development](/security/)
 
 ## Course Contents
 
