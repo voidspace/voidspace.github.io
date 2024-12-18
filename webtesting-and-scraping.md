@@ -4,6 +4,8 @@ title: Web Testing and Scraping with Modern Python Tools
 permalink: /web-testing/
 ---
 
+NOTE: *course material and description being updated*
+
 This course is a one day course on learning the basics of functional web testing and web
 scraping with industry standard courses. It can be taught on-site or premises. The course
 contents can be tailored to your specific needs and requirements.
@@ -46,6 +48,8 @@ from live websites. Even though they're Python tools they can be used for workin
 websites built in any lanugage or system.
 
 The three powerful and easy to learn Python tools for these tasks are:
+
+NOTE: `httpx` is a more modern library than `requests`, both or either can be taught.
 
 * [Requests](http://docs.python-requests.org/en/master/)
 

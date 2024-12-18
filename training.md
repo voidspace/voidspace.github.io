@@ -4,6 +4,8 @@ title: Python Training Courses
 permalink: /training/
 ---
 
+All courses are taught by Michael Foord, a contributor to core Python itself, author of [IronPython in Action](https://www.manning.com/books/ironpython-in-action), and the creator of unittest.mock. Michael has over ten years of experience teaching Python and twenty years of industry experience working with Python.
+
 Most of my training is now delivered remotely, via Zoom or Teams, but I'm available for onsite training.
 
 My most popular courses are:
@@ -14,7 +16,7 @@ My most popular courses are:
 * [Secure Python Web Application Development (2 days)](/security/)
 * [Testing with pytest (1 day)](/testing-pytest/)
 
-Bespoke courses, e.g. web scraping and SQL, are also available. [Contact me](mailto:michael@python.org)
+Bespoke courses, e.g. [web scraping/testing](/web-testing/) and SQL, are also available. [Contact me](mailto:michael@python.org)
 
 Several one hour sessions, seven so far, on a range of Python topics from generators to the concurrency to testing with pytest are available on YouTube. :
 

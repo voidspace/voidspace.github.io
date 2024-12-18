@@ -104,6 +104,7 @@ To see my professional endorsements and more details of my career history, see m
 
 A selection of some of the talks and interviews I've given on Python and software engineering across my career.
 
+* [Essential Python Web Security (article, Dec 2024)](https://opensource.net/essential-python-web-security/)
 * [UK Health Security Agency Software Development Practise Conf 2024](https://github.com/voidspace/talks/blob/main/healthsecurityagency/ukhsa.pdf)
 * [PyCon UK 2023, Metaclasses in 5 Minutes Lightning Talk](https://www.youtube.com/watch?v=O2ApDUsPDSc&t=2656s)
 * [PyCon MEA 2022 How Python Took Over the World](https://www.youtube.com/watch?v=gv8VA1KugWk&ab_channel=GlobalDevSlam)
