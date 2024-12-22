@@ -12,6 +12,8 @@ The [Open Source Initiative](https://opensource.net/) have published part one of
 
 * [Essential Python Web Security: Part 1](https://opensource.net/essential-python-web-security/)
 
-Part 2, on Cryptographic Algorithms, will be published soon.
+Part 2, on Cryptographic Algorithms, will be published soon. When the series is complete it will probably also be available as an ebook. The full document, about fifty pages, can be read here:
 
-Special thanks to Gigaclear Ltd who sponsored the creation of this article. Also thanks to Dr David Mertz and Daniel Roy Greenfeld for reviewing this article prior to publication.
+* [The Absolute Minimum Every Python Web Application Developer Must Know About Security](https://docs.google.com/document/d/1tpTgbR9MyDs69Zbd7WbpNNK3-qjv9RE-dkc6muouJg0/edit?usp=sharing)
+
+Special thanks to Gigaclear Ltd who sponsored the creation of this article. Also thanks to Dr David Mertz and Daniel Roy Greenfeld for technical reviews of this article prior to publication.
