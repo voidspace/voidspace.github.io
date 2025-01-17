@@ -24,6 +24,8 @@ My favourite articles, on software development and testing best practises and se
 
 * [Best Practises for Software Development and Testing (Article)](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
 * [Essential Python Web Security](https://opensource.net/essential-python-web-security/)
+* [Security and cryptography algorithms: A guide](https://opensource.net/security-cryptography-algorithms-python/)
+* [TLS and Networking](https://opensource.net/tls-and-networking/)
 
 ### Training
 
@@ -105,6 +107,8 @@ To see my professional endorsements and more details of my career history, see m
 
 A selection of some of the talks and interviews I've given on Python and software engineering across my career.
 
+* [TLS and Networking](https://opensource.net/tls-and-networking/)
+* [Security and cryptography algorithms: A guide](https://opensource.net/security-cryptography-algorithms-python/)
 * [Essential Python Web Security (article, Dec 2024)](https://opensource.net/essential-python-web-security/)
 * [UK Health Security Agency Software Development Practise Conf 2024](https://github.com/voidspace/talks/blob/main/healthsecurityagency/ukhsa.pdf)
 * [PyCon UK 2023, Metaclasses in 5 Minutes Lightning Talk](https://www.youtube.com/watch?v=O2ApDUsPDSc&t=2656s)
