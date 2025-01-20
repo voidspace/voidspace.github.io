@@ -43,7 +43,7 @@ My most popular courses are:
 
 Bespoke courses, e.g. web scraping and SQL, are also available. [Contact me](mailto:michael@python.org)
 
-Several one hour sessions, eight so far, on a range of Python topics from generators to the concurrency to testing with pytest are available on YouTube. :
+Several one hour sessions, eight so far, on a range of Python topics from generators to concurrency to testing with pytest are available on YouTube. :
 
 * [Python Knowledge Share Videos on YouTube](/python-knowledge-share-videos/)
 
