@@ -27,4 +27,4 @@ These are just a few of the principles from a Defence in Depth, multi-layered, a
 
 (Being able to talk about the Blowfish Cipher and the Diffie-Hellmann Elliptic Curve Key Exchange Protocol is cyberpunk, so these articles are teaching real life skills.)
 
-Thanks to Dr David Cassandra Mertz and PyDanny (Daniel Greenfeld) for improving these articles through technical review and to Nick Vidal (and volunteers) from the OSI for their work editting and formatting the articles.
+Thanks to Dr David Cassandra Mertz and PyDanny (Daniel Greenfeld) for improving these articles through technical review and to Nick Vidal (and volunteers) from the OSI for their work editing and formatting the articles.
