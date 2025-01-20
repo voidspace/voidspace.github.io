@@ -11,7 +11,7 @@ Never store passwords in plain text. At a minimum you should be storing salted h
 
 Data should be encrypted in transit and at rest. Just stealing your database shouldn't reveal sensitive information because data is encrypted at rest. You can do this with the StringEncryptedType for SQLAlchemy for example. mTLS (Mutual TLS) is how we can keep data encrypted in transit, even on our internal networks. Just getting access to your network shouldn't reveal any sensitive information because data is encrypted in transit.
 
-These are just a few of the principles from a Defence in Depth, multi-layered, approach to security which is the approach explored in this article series:
+These are just a few of the principles from a Defence in Depth, multi-layered, approach to security explored in this article series:
 
 * [Essential Python Web Security](https://opensource.net/essential-python-web-security/ )
 
