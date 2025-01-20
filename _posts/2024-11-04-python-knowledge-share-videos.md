@@ -15,7 +15,7 @@ The slides for each of the sessions, along with some example code, can be found 
 
 * [https://github.com/voidspace/talks](https://github.com/voidspace/talks)
 
-So far there are seven one-hour sessions (with more planned) on:
+So far there are eight one-hour sessions (with more planned) on:
 
 * [Python Core Object Model](https://www.youtube.com/watch?v=O25ro9U2Br4&list=PLzeg33w0Au4wgaHk3-hyGIXNU_WRBMgvq&index=1&ab_channel=MichaelFoord)
     * Python objects
