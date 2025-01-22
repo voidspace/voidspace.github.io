@@ -2,7 +2,7 @@
 
 Over the last year I've updated my Advanced Python course to be based on a series of modules that can more easily be adapted to the specific needs of any team or group of delegates. There's a lot more advanced material and the exercises have also been updated. A good engineer's Python in three days.
 
-* https://agileabstractions.com/advanced/
+* [https://agileabstractions.com/advanced/](https://agileabstractions.com/advanced/)
 
 Typically taught as a three day hands on course that will take you deeper into the Python programming language and ecosystem. This course will take delegates from beginner/intermediate level in Python to Advanced Python experts. The course provides a solid overview of the Python language including some low level details essential to working confidently and fluidly with Python. The focus is on practical programming and the skills learned here can be applied in any field where Python is used.
 
@@ -31,8 +31,8 @@ An additional optional module "Data Science Overview" is available on request.
 
 For several of the modules there are previews of the material in a series of "Python Knowledge Share Videos":
 
-* https://agileabstractions.com/python-knowledge-share-videos/
+* [https://agileabstractions.com/python-knowledge-share-videos/](https://agileabstractions.com/python-knowledge-share-videos/)
 
 The materials/slides for these sessions can be found here:
 
-* https://github.com/voidspace/talks
+* [https://github.com/voidspace/talks](https://github.com/voidspace/talks)
