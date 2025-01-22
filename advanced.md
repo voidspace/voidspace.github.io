@@ -24,14 +24,13 @@ Full list of modules available:
 * The Core Python Object Model
 * Testing with pytest
 * Floats, Unicode, and Regular Expressions
-* List Comprehensions and Generator Expressions
+* List Comprehensions, Generator Expressions & Function Signatures
 * Advanced Python OOP
 
 An additional optional module "Data Science Overview" is available on request.
 
 To add:
 
-* New module on functions coming soon
 * Module on datetime handling
 
 # Modules
@@ -290,7 +289,7 @@ The minimum every developer must know about floating point numbers, unicode, and
 * Unicode, encodings and strings
 * Regular expressions
 
-## List Comprehensions and Generator Expressions
+## List Comprehensions, Generator Expressions & Function Signatures
 
 * For loops and iteration
 * Tuple unpacking, multiple iteration variables
@@ -303,14 +302,22 @@ The minimum every developer must know about floating point numbers, unicode, and
 * List comprehensions and query like syntax
 * Eager versus lazy: list comprehensions versus generator expressions
 * Generator expressions as one shot iterators
+* The `strict` argument to `zip`
+* Nested list comprehensions
+* Dictionary and set comprehensions
+* Function signatures: required and optional arguments
+* Function calls: Positional and required arguments
+* Positional only and keyword only arguments
+* Local and global variables
+
+Needs to be added:
+
+* *args and **kwargs
+
+Needs a section to live in:
+
 * Ordered dictionaries
 * Ternary expressions
-
-To add:
-
-* The `safe` argument to `zip`
-* Nested list comprehensions
-* Dictionary and set comprehensions (in the exercises already - verify)
 
 
 ## Advanced Python OOP
